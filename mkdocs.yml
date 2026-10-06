@@ -1,7 +1,5 @@
 site_name: おやさいサーバー Wiki
 site_url: https://wiki.oyasai.io/
-repo_url: https://github.com/oyasaiserver/wiki
-edit_uri: edit/main/docs/
 docs_dir: docs
 
 theme:

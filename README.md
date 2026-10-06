@@ -4,12 +4,11 @@
 
 ## 書き方
 
-どれでも同じように PR になり、`main` に merge されたものが公開されます。
+どちらも PR になり、`main` に merge されたものが公開されます。
 
 | 方法 | 向いている人 |
 |---|---|
-| 編集画面（公開サイトの `/admin/`） | Git を使わない人。保存すると PR になり、「公開」で merge される |
-| GitHub 上で直接編集 | ちょっと直したい人 |
+| GitHub 上で直接編集（ファイルを開いて鉛筆マーク） | Git を使わない人。保存すると PR になる |
 | ブランチを切って PR | Git を使う人、AI エージェント（[AGENTS.md](AGENTS.md)） |
 
 ## フォルダー
@@ -39,10 +38,10 @@ pip install -r requirements.txt
 mkdocs serve
 ```
 
-http://127.0.0.1:8000/ で見られます。PR ごとに `mkdocs build --strict` が動き、リンク切れがあると失敗します。
+http://127.0.0.1:8000/ で見られます。Seesaa から移すページの一覧は Issue にあります。PR ごとに `mkdocs build --strict` が動き、リンク切れがあると失敗します。
 
 ## まだ決まっていないこと
 
 - 公開先（サーバー・DNS）
-- 編集画面の GitHub ログインの中継（`docs/admin/config.yml` の `base_url`）
+- Git を使わない人向けの編集画面（Decap CMS）。公開先と GitHub ログインの中継が決まったら入れる
 - サイト生成の道具。MkDocs 2.0 は今のプラグインやテーマが動かないため、`requirements.txt` で MkDocs 1.6 と Material 9.7 に固定している。原稿は Markdown なので、後継（Material チームの Zensical など）へ移るときも原稿は変えなくてよい。
