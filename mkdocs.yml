@@ -1,0 +1,30 @@
+site_name: おやさいサーバー Wiki
+site_url: https://wiki.oyasai.io/
+repo_url: https://github.com/oyasaiserver/wiki
+edit_uri: edit/main/docs/
+docs_dir: docs
+
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - search.suggest
+
+plugins:
+  - search:
+      lang: ja
+  - awesome-pages # 各フォルダーの .pages でメニューの名前と順番を決める
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+validation:
+  links:
+    not_found: warn
+    anchors: warn
