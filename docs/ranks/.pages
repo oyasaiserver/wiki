@@ -1,1 +1,6 @@
 title: ランクと権限
+nav:
+  - index.md
+  - ranks-and-commands.md
+  - guides.md
+  - worldedit-request.md

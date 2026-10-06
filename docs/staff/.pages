@@ -1,1 +1,6 @@
 title: スタッフ・運営
+nav:
+  - index.md
+  - staff-list.md
+  - history.md
+  - donation.md
