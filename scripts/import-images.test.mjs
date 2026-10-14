@@ -1,7 +1,9 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { readFile, writeFile } from "node:fs/promises";
-import { convertImage, extractUrls, fetchImage, imageFormat, imageName, MAX_BYTES } from "./import-images.mjs";
+import { mkdir, mkdtemp, readFile, rm, writeFile } from "node:fs/promises";
+import { tmpdir } from "node:os";
+import path from "node:path";
+import { convertImage, extractUrls, fetchImage, imageFormat, imageName, main, MAX_BYTES } from "./import-images.mjs";
 
 const url = "https://image01.seesaawiki.jp/o/i/oyasai/example.png";
 const png = Buffer.from("89504e470d0a1a0a00000000", "hex");
@@ -96,3 +98,61 @@ test("converts PNG/JPEG with fixed quality, keeps larger results, and leaves GIF
   }));
   await assert.rejects(convertImage(png, "png", async () => { throw new Error("encoder failed"); }), /encoder failed/);
 });
+
+test("IMAGE_URL_MAP fetches refreshed URLs but uses original URL for paths, filenames, and manifest", async () => {
+  const tmp = await mkdtemp(path.join(tmpdir(), "wiki-image-map-test-"));
+  try {
+    const original = "https://cdn.discordapp.com/attachments/123/456/test_image.png";
+    const refreshed = "https://cdn.discordapp.com/attachments/123/456/test_image.png?ex=signed&is=time&hm=sig";
+    const docDir = path.join(tmp, "src/content/docs");
+    await mkdir(docDir, { recursive: true });
+    await writeFile(path.join(docDir, "sample.md"), `![sample](${original})\n`);
+
+    const mapPath = path.join(tmp, "discord-map.json");
+    await writeFile(mapPath, JSON.stringify({
+      refreshed_urls: [{ original, refreshed }],
+    }));
+
+    let requestedUrl;
+    const request = async (url) => {
+      requestedUrl = url;
+      return new Response(png);
+    };
+    const webp = Buffer.from("RIFF0000WEBP");
+    const command = async (_bin, args) => {
+      await writeFile(args[6], webp);
+    };
+
+    const result = await main({
+      root: tmp,
+      mapPath,
+      request,
+      command,
+      sleep: () => {},
+    });
+
+    assert.equal(requestedUrl, refreshed);
+    assert.equal(result.failures.length, 0);
+
+    const manifestPath = path.join(tmp, "scripts/images.json");
+    const manifestText = await readFile(manifestPath, "utf8");
+    assert.ok(!manifestText.includes("ex="), "JSON に ex= が含まれていないこと");
+    assert.ok(!manifestText.includes("is="), "JSON に is= が含まれていないこと");
+    assert.ok(!manifestText.includes("hm="), "JSON に hm= が含まれていないこと");
+    assert.ok(!manifestText.includes("signed"), "JSON に refreshed が含まれていないこと");
+
+    const manifest = JSON.parse(manifestText);
+    assert.ok(manifest.images[original], "マニフェストのキーは original URL であること");
+    assert.equal(manifest.images[original].path, "/images/discord/test_image.webp");
+
+    const savedFile = path.join(tmp, "public/images/discord/test_image.webp");
+    assert.ok(await readFile(savedFile), "保存された画像ファイルが存在すること");
+
+    const docText = await readFile(path.join(docDir, "sample.md"), "utf8");
+    assert.equal(docText, "![sample](/images/discord/test_image.webp)\n");
+    assert.ok(!docText.includes("ex="));
+  } finally {
+    await rm(tmp, { recursive: true, force: true });
+  }
+});
+

@@ -20,9 +20,9 @@ sidebar:
 三小電鉄[在来・メトロ]ネットワーク（スポーンエリア）  
 ![](/images/seesaa/dC9bK99p30.webp)  
 三小電鉄路線ご案内（対馬エリア）※地上線  
-![](https://cdn.discordapp.com/attachments/814382511786033225/971403231001448478/20bc56bbf5e4f468.png)  
+![](/images/discord/20bc56bbf5e4f468.webp)  
 三小地下鉄路線案内（対馬エリア）  
-![](https://media.discordapp.net/attachments/814382511786033225/1034448072702435388/odoi1.png)
+![](/images/discord/odoi1.webp)
 
 ## スポーンエリア停車駅ご案内
 

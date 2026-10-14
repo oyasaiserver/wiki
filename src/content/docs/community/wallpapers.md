@@ -9,7 +9,7 @@ sidebar:
 
 | --- |
 | 日光いろは坂にて |
-| [ダウンロード](https://cdn.discordapp.com/attachments/1083771610206568608/1125053830518808656/oyasairacev_.png) |
+| [ダウンロード](/images/discord/oyasairacev_.webp) |
 
 1920 x 1080  
 作：Uekibachi兄貴
@@ -18,7 +18,7 @@ sidebar:
 
 | --- |
 | CarBuilder完成記念！ |
-| [ダウンロード](https://cdn.discordapp.com/attachments/1083771610206568608/1124299738351677470/oyasai_carbuilder_wallpaper_3dlogo1.png) |
+| [ダウンロード](/images/discord/oyasai_carbuilder_wallpaper_3dlogo1.webp) |
 
 2560 x 1440  
 作：Uekibachi兄貴
@@ -27,7 +27,7 @@ sidebar:
 
 | --- |
 | 2023風 |
-| [ダウンロード](https://cdn.discordapp.com/attachments/1083771610206568608/1097598785158393997/untitle242323242d2.png) |
+| [ダウンロード](/images/discord/untitle242323242d2.webp) |
 
 2560 x 1440  
 作：Uekibachi兄貴
@@ -36,7 +36,7 @@ sidebar:
 
 | --- | --- | --- |
 | Xbox風 |  | 某恐竜ゲーム風 |
-| [壁紙](https://cdn.discordapp.com/attachments/1083771610206568608/1084572863828332644/oyasai_20230313_wallpaper.png) [アバターアイコン](https://cdn.discordapp.com/attachments/1083771610206568608/1084572863471829163/oyasai_20230313_icon.png) |  | [ダウンロード](/images/seesaa/Tnr44w8XbC.webp) |
+| [壁紙](/images/discord/oyasai_20230313_wallpaper.webp) [アバターアイコン](/images/discord/oyasai_20230313_icon.webp) |  | [ダウンロード](/images/seesaa/Tnr44w8XbC.webp) |
 
 1920 x 1080  
 作：Uekibachi兄貴
@@ -45,7 +45,7 @@ sidebar:
 
 | --- |
 | SLAMDUNK風 |
-| [ダウンロード](https://cdn.discordapp.com/attachments/604935669952806944/1082661642682237029/SLAMDUNK.png) |
+| [ダウンロード](/images/discord/SLAMDUNK.webp) |
 
 724 x 1080  
 作：34Nick兄貴
@@ -126,7 +126,7 @@ sidebar:
 
 | --- | --- | --- | --- | --- |
 | クッパ用 |  | パープルクリスタル！？ |  | クッシュ！？ |
-| [ダウンロード](https://photos.app.goo.gl/h4Vhrre6iKJn6h7n9) |  | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/993255423157227562/PurpleCrystalOyasai.png) |  | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/993450367339733002/greencrystaloyasai.png) |
+| [ダウンロード](https://photos.app.goo.gl/h4Vhrre6iKJn6h7n9) |  | [ダウンロード](/images/discord/PurpleCrystalOyasai.webp) |  | [ダウンロード](/images/discord/greencrystaloyasai.webp) |
 
 3840 x 2160  
 作：Uekibachi兄貴
@@ -135,7 +135,7 @@ sidebar:
 
 | --- | --- | --- |
 | ロゴ |  | ロゴ（光抑え） |
-| [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/966751628428447844/oyasai_building2.png) |  | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/966752366307201044/oyasai_building.png) |
+| [ダウンロード](/images/discord/oyasai_building2.webp) |  | [ダウンロード](/images/discord/oyasai_building.webp) |
 
 1920 x 1920  
 作：Uekibachi兄貴
@@ -153,7 +153,7 @@ sidebar:
 
 | --- | --- | --- |
 | ロゴ(TRON) |  | ロゴ（Windows7風） |
-| [ダウンロード](https://photos.app.goo.gl/sSw1QsPsADMkDkSe6) |  | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/966353223684350102/oysi7.png) |
+| [ダウンロード](https://photos.app.goo.gl/sSw1QsPsADMkDkSe6) |  | [ダウンロード](/images/discord/oysi7.webp) |
 
 3840 x 2160  
 作：Uekibachi兄貴
@@ -162,7 +162,7 @@ sidebar:
 
 | --- | --- | --- |
 | ロゴ（代紋風） |  | ロゴ（白） |
-| [ダウンロード](https://photos.app.goo.gl/3qMdfBadGnr1Zvh78) |  | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/965853195605798922/oyasai_223.png) |
+| [ダウンロード](https://photos.app.goo.gl/3qMdfBadGnr1Zvh78) |  | [ダウンロード](/images/discord/oyasai_223.webp) |
 
 3840 x 2160  
 作：Uekibachi兄貴
@@ -171,7 +171,7 @@ sidebar:
 
 | --- | --- | --- |
 | ロゴ（白黒） |  | ロゴ（黒） |
-| [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/965621444576968784/oyasaic2v2.png) |  | [ダウンロード](https://cdn.discordapp.com/attachments/787657126973407285/965606327130931251/unknown.png) |
+| [ダウンロード](/images/discord/oyasaic2v2.webp) |  | [ダウンロード](/images/discord/unknown.webp) |
 
 3840 x 2160  
 作：Uekibachi兄貴
