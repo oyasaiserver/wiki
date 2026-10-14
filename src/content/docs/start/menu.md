@@ -28,7 +28,7 @@ sidebar:
 
 | 名称 | 効果 | 代用コマンド |
 | --- | --- | --- |
-| 魚市場 | 釣った魚を売却できるショップを開く。 釣りについて詳しくは[コチラ](/play/fishing/) | /emf shop |
+| 魚市場 | 釣った魚を売却できるショップを開く。 釣りについて詳しくは[コチラ](/play/economy/#釣りで稼ぐ) | /emf shop |
 | デバック棒 | ブロックの向きや形を指定する事ができる魔法のスティック。 デバッグ棒については[こちら](https://minecraft.fandom.com/ja/wiki/%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E6%A3%92) 注: 別サイトに飛びます。 |  |
 | 作業台 | どこでもクラフトできる | /c |
 | バック | 前回死亡したところやテレポート前の場所に戻れる ※上級以上 | /back |
@@ -75,7 +75,7 @@ sidebar:
 
 ![](https://image01.seesaawiki.jp/o/i/oyasai/OyhzjZjgLB.png)
 
-詳しくは[こちら](/features/carbuilder2/)
+詳しくは[こちら](/features/vehicles/#車の出し方)
 
 | 名称 | 効果 | 代用コマンド |
 | --- | --- | --- |
@@ -111,7 +111,7 @@ sidebar:
 
 ![](https://image01.seesaawiki.jp/o/i/oyasai/gxxk0HFkwi.png)
 
-詳しくは[こちら](/features/drawing-map/)
+詳しくは[こちら](/features/utilities/#おえかきマップ)
 
 | 名称 | 効果 | 代用コマンド |
 | --- | --- | --- |

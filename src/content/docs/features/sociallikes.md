@@ -1,13 +1,13 @@
 ---
-title: SocialLikes
+title: 建築のいいね・評価（SocialLikes）
 sidebar:
-  order: 3
+  order: 6
 ---
 
 
 ![](https://image02.seesaawiki.jp/o/i/oyasai/u_XvIvgFj2.png)
 
-## SocialLikesとは
+## 建築にいいねする
 
 建築物にイイネを付けられるようになる独自プラグインです。  
 また、イイネされるとポイントショップで使えるポイントが2ポイントもらえます。

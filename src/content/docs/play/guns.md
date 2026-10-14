@@ -1,7 +1,7 @@
 ---
 title: 銃火器
 sidebar:
-  order: 6
+  order: 5
 ---
 
 

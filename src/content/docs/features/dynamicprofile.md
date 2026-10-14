@@ -1,11 +1,11 @@
 ---
-title: DynamicProfile
+title: 自己紹介・称号・おすすめ建築（DynamicProfile）
 sidebar:
-  order: 2
+  order: 7
 ---
 
 
-## DynamicProfileとは
+## プロフィールを設定する
 
 DynamicProfile（以下DP）は、自己紹介や称号、自分の建築をおすすめに登録出来たりします。  
 おすすめ建築は定期的に他のユーザーに宣伝してくれるので、自分のスタイルや作品をもっと多くの人に知ってもらえるチャンスが広がります。

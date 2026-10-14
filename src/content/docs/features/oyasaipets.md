@@ -1,13 +1,13 @@
 ---
-title: OyasaiPets
+title: ペットを飼う・育てる（OyasaiPets）
 sidebar:
-  order: 10
+  order: 3
 ---
 
 
 ![](https://image01.seesaawiki.jp/o/i/oyasai/35e2d5e75bd59e80.png)
 
-## OyasaiPetsとは
+## ペットを飼う・育てる
 
 OyasaiPetsは、おやさい鯖オリジナルのペットプラグインです。  
 大型ペットに乗って鯖内を移動したり、交配で個体を育てたり、スキルを解放してバトルに参加することができます。
