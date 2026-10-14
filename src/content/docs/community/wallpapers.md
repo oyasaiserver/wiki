@@ -9,6 +9,7 @@ sidebar:
 
 | --- |
 | 日光いろは坂にて |
+| ![日光いろは坂にて](/images/seesaa/LAOia0AeC_.webp) |
 | [ダウンロード](/images/discord/oyasairacev_.webp) |
 
 1920 x 1080  
@@ -18,6 +19,7 @@ sidebar:
 
 | --- |
 | CarBuilder完成記念！ |
+| ![CarBuilder完成記念！](/images/seesaa/T3F5AnhLP0.webp) |
 | [ダウンロード](/images/discord/oyasai_carbuilder_wallpaper_3dlogo1.webp) |
 
 2560 x 1440  
@@ -27,6 +29,7 @@ sidebar:
 
 | --- |
 | 2023風 |
+| ![2023風](/images/seesaa/h2dozgDarq.webp) |
 | [ダウンロード](/images/discord/untitle242323242d2.webp) |
 
 2560 x 1440  
@@ -36,6 +39,7 @@ sidebar:
 
 | --- | --- | --- |
 | Xbox風 |  | 某恐竜ゲーム風 |
+| ![Xbox風](/images/seesaa/y_WB14Jfct.webp) |  | ![某恐竜ゲーム風](/images/seesaa/Tnr44w8XbC.webp) |
 | [壁紙](/images/discord/oyasai_20230313_wallpaper.webp) [アバターアイコン](/images/discord/oyasai_20230313_icon.webp) |  | [ダウンロード](/images/seesaa/Tnr44w8XbC.webp) |
 
 1920 x 1080  
@@ -45,6 +49,7 @@ sidebar:
 
 | --- |
 | SLAMDUNK風 |
+| ![SLAMDUNK風](/images/seesaa/RqIVAy95jw.webp) |
 | [ダウンロード](/images/discord/SLAMDUNK.webp) |
 
 724 x 1080  
@@ -54,7 +59,8 @@ sidebar:
 
 | --- |
 | ゲーミンググリーン色 |
-| [1080p](https://cdn.discordapp.com/attachments/725071175201587280/1080049146058244116/oyassai_green.png) [1440p](https://cdn.discordapp.com/attachments/725071175201587280/1080138157510635581/oyasaigreen1440p.png) [透過](https://cdn.discordapp.com/attachments/725071175201587280/1080139257915637800/oyasaigreen1440p_alpha.png) |
+| ![ゲーミンググリーン色](/images/seesaa/wfAIRQ_aBU.webp) |
+| （元のファイルは失われました） |
 
 1920 x 1080, 2560 x 1440  
 作：Uekibachi兄貴
@@ -63,7 +69,8 @@ sidebar:
 
 | --- | --- | --- |
 | アチアチロゴ810℃ |  | ゲーミング風（Razer寄り） |
-| [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1079365360505077800/untitle31551515d.png) |  | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1079367464967745616/oyasai111111.png) |
+| ![アチアチロゴ810℃](/images/seesaa/KOirIjjz41.webp) |  | ![ゲーミング風（Razer寄り）](/images/seesaa/u1LjgjQTUw.webp) |
+| （元のファイルは失われました） |  | （元のファイルは失われました） |
 
 1920 x 1080  
 作：Uekibachi兄貴
@@ -72,7 +79,8 @@ sidebar:
 
 | --- |
 | おやさい鯖 R6Sブラックアイス風背景（原文） |
-| [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1079314501117165669/oyasai_blackice_back.png) |
+| ![おやさい鯖 R6Sブラックアイス風背景（原文）](/images/seesaa/aJSVDedlZx.webp) |
+| （元のファイルは失われました） |
 
 1920 x 1080  
 作：Uekibachi兄貴
@@ -81,7 +89,8 @@ sidebar:
 
 | --- |
 | スチームパンク(USB) |
-| [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1067399204265279539/oyasai_.png) |
+| ![スチームパンク(USB)](/images/seesaa/hBjcdL8bqj.webp) |
+| [ダウンロード](/images/wallpapers/oyasai_.png) |
 
 1920 x 1080  
 作：Uekibachi兄貴
@@ -90,7 +99,8 @@ sidebar:
 
 | --- | --- | --- |
 | ロゴ |  | Windows10風 |
-| [ダウンロード](/images/seesaa/ixS0aYmsYg.webp) |  | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1066650980969623602/windowsoyasai10.png) |
+| ![ロゴ](/images/seesaa/ixS0aYmsYg.webp) |  |  |
+| [ダウンロード](/images/seesaa/ixS0aYmsYg.webp) |  | （元のファイルは失われました） |
 
 1920 x 1080  
 作：Uekibachi兄貴
@@ -99,16 +109,18 @@ sidebar:
 
 | --- |
 | Windows7 v2 |
-| [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1065646779095339098/untitle22222d.png) |
+| ![Windows7 v2](/images/seesaa/ZyQjqGpHlT.webp) |
+| [ダウンロード](/images/wallpapers/untitle22222d.png) |
 
-3840 x 2160  
+1920 x 1080  
 作：Uekibachi兄貴
 
 ---
 
 | --- |
 | OSS Enterprise NCC-1919 |
-| [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1004388066523369562/ungagagtitled.png) |
+| ![OSS Enterprise NCC-1919](/images/seesaa/C4JpaDpDrj.webp) |
+| [ダウンロード](/images/wallpapers/ungagagtitled.png) |
 
 1920 x 1080  
 作：Uekibachi兄貴でした
@@ -117,15 +129,17 @@ sidebar:
 
 | --- | --- | --- |
 | 近未来風 |  | 近未来風2 |
-| [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1004006124665708635/OyasaiRedProtocol.png) |  | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1004128038637809744/untgagagagigagagtled.png) |
+|  |  | ![近未来風2](/images/seesaa/zK4W7BH5N3.webp) |
+| （元のファイルは失われました） |  | [ダウンロード](/images/wallpapers/untgagagagigagagtled.png) |
 
-2560 x 1440  
+1920 x 1080  
 作：Uekibachi兄貴
 
 ---
 
 | --- | --- | --- | --- | --- |
 | クッパ用 |  | パープルクリスタル！？ |  | クッシュ！？ |
+| ![クッパ用](/images/seesaa/PBcJM8HBvh.webp) |  |  |  |  |
 | [ダウンロード](https://photos.app.goo.gl/h4Vhrre6iKJn6h7n9) |  | [ダウンロード](/images/discord/PurpleCrystalOyasai.webp) |  | [ダウンロード](/images/discord/greencrystaloyasai.webp) |
 
 3840 x 2160  
@@ -144,6 +158,7 @@ sidebar:
 
 | --- |
 | 女性向け |
+| ![女性向け](/images/seesaa/6IbXx7i5A4.webp) |
 | [ダウンロード](https://photos.app.goo.gl/DNmxUJ1RuW5Etk1y9) |
 
 1243 x 1804  
@@ -153,6 +168,7 @@ sidebar:
 
 | --- | --- | --- |
 | ロゴ(TRON) |  | ロゴ（Windows7風） |
+| ![ロゴ(TRON)](/images/seesaa/xqgmdUYAup.webp) |  | ![ロゴ（Windows7風）](/images/seesaa/Cn8sfuWGGS.webp) |
 | [ダウンロード](https://photos.app.goo.gl/sSw1QsPsADMkDkSe6) |  | [ダウンロード](/images/discord/oysi7.webp) |
 
 3840 x 2160  
@@ -162,6 +178,7 @@ sidebar:
 
 | --- | --- | --- |
 | ロゴ（代紋風） |  | ロゴ（白） |
+| ![ロゴ（代紋風）](/images/seesaa/FpDJtSYlLD.webp) |  | ![ロゴ（白）](/images/seesaa/Pc7uPYNlFk.webp) |
 | [ダウンロード](https://photos.app.goo.gl/3qMdfBadGnr1Zvh78) |  | [ダウンロード](/images/discord/oyasai_223.webp) |
 
 3840 x 2160  
@@ -171,6 +188,7 @@ sidebar:
 
 | --- | --- | --- |
 | ロゴ（白黒） |  | ロゴ（黒） |
+| ![ロゴ（白黒）](/images/seesaa/t22FBtZumC.webp) |  | ![ロゴ（黒）](/images/seesaa/tZXT5Jkv_K.webp) |
 | [ダウンロード](/images/discord/oyasaic2v2.webp) |  | [ダウンロード](/images/discord/unknown.webp) |
 
 3840 x 2160  
@@ -180,6 +198,7 @@ sidebar:
 
 | --- |
 | ロゴ |
+| ![ロゴ](/images/seesaa/kKCLtXW1N3.webp) |
 | [ダウンロード](https://photos.app.goo.gl/DNmxUJ1RuW5Etk1y9) |
 
 2550 x 2550  
@@ -189,6 +208,7 @@ sidebar:
 
 | --- | --- | --- |
 | ティモシー・リアリー！？ |  | iPhone用 |
+| ![ティモシー・リアリー！？](/images/seesaa/liJJgZYuhp.webp) |  | ![iPhone用](/images/seesaa/GAJu0d9qG5.webp) |
 | [ダウンロード](/images/seesaa/liJJgZYuhp.webp) |  | [ダウンロード](/images/seesaa/GAJu0d9qG5.webp) |
 
 解像度iPhone！？視差効果ON対応！？  
@@ -198,6 +218,7 @@ sidebar:
 
 | --- |
 | ロゴ |
+| ![ロゴ](/images/seesaa/v46TLLUrjS.webp) |
 | [ダウンロード](/images/seesaa/v46TLLUrjS.webp) |
 
 1920 x 1080  
@@ -207,6 +228,7 @@ sidebar:
 
 | --- | --- | --- |
 | ダブルチョコレート（ミスド） |  | ダブルチョコレート（嘘） |
+| ![ダブルチョコレート（ミスド）](/images/seesaa/NJnvzy2DvU.webp) |  | ![ダブルチョコレート（嘘）](/images/seesaa/HT6xsfrPKc.webp) |
 | [ダウンロード](/images/seesaa/NJnvzy2DvU.webp) |  | [ダウンロード](/images/seesaa/HT6xsfrPKc.webp) |
 
 1920 x 1080  
@@ -216,6 +238,7 @@ sidebar:
 
 | --- |
 | Cyberpunk 2022 |
+| ![Cyberpunk 2022](/images/seesaa/NKkxP045Di.webp) |
 | [ダウンロード](/images/seesaa/NKkxP045Di.webp) |
 
 1920 x 1081  
@@ -225,6 +248,7 @@ sidebar:
 
 | --- | --- | --- |
 | Windows10！？ |  | おやさいMatrix空間内における34Nick |
+| ![Windows10！？](/images/seesaa/ZFsstFRW8z.webp) |  | ![おやさいMatrix空間内における34Nick](/images/seesaa/gNnHTS5JYF.webp) |
 | [ダウンロード](/images/seesaa/ZFsstFRW8z.webp) |  | [ダウンロード](/images/seesaa/gNnHTS5JYF.webp) |
 
 1920 x 1080  
@@ -234,6 +258,7 @@ sidebar:
 
 | --- |
 | Apple WWDC 2022！？ |
+| ![Apple WWDC 2022！？](/images/seesaa/uRIFpjiiK7.webp) |
 | [ダウンロード](/images/seesaa/uRIFpjiiK7.webp) |
 
 4000 x 2250  
@@ -243,6 +268,7 @@ sidebar:
 
 | --- | --- | --- |
 | 1 |  | 2 |
+| ![1](/images/seesaa/sfkb2Ak9B1.webp) |  | ![2](/images/seesaa/xVlCaXRow7.webp) |
 | [ダウンロード](/images/seesaa/sfkb2Ak9B1.webp) |  | [ダウンロード](/images/seesaa/xVlCaXRow7.webp) |
 
 1920 x 1080  
