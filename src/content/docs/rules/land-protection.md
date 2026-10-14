@@ -12,15 +12,15 @@ sidebar:
 
 ### 土地の保護の手順
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/sWlgz0obf9.29.50.png)
+![](/images/seesaa/sWlgz0obf9.29.50.webp)
 
 1. **木の斧**を用意します。
 2. 保護したい領域の対角線となる2つの角を指定します。
    - 最初の角を **左クリック** します。
    - 反対側の対角線となる角を **右クリック** します。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/J4IA5RbEe7.18.36.png)
-![](https://image01.seesaawiki.jp/o/i/oyasai/W_1gaDGp1B.55.32.png)
+![](/images/seesaa/J4IA5RbEe7.18.36.webp)
+![](/images/seesaa/W_1gaDGp1B.55.32.webp)
 
 3. チャット欄に `/region claim <土地の名前>` と入力すると、土地の保護が完了します。
 

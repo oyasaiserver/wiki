@@ -11,16 +11,16 @@ sidebar:
 
 おやさい鯖で釣りをすると、普段のマイクラとは違う特殊なカスタムヘッドが釣れます。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/_47NcHf2zA.png)
+![](/images/seesaa/_47NcHf2zA.webp)
 
 試しに釣りをしてみましょう。
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/LbgWkt20Pe.png)
+![](/images/seesaa/LbgWkt20Pe.webp)
 
 釣れた！
 (一応)魚なので？一匹一匹サイズが違うため、大きさを競うこともできます。
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/cbT0ZqZJ4Z.png)
+![](/images/seesaa/cbT0ZqZJ4Z.webp)
 
 釣った魚は、普通のマイクラと同様にインベントリに入ります。
 釣れる魚の種類は100種類以上！
@@ -31,16 +31,16 @@ sidebar:
 釣った魚は、釣りショップにて売却することもできます。金策。
 チャット欄に **/f** と入力することで開くことができます。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/bXtcEyrreH.png)
+![](/images/seesaa/bXtcEyrreH.webp)
 
 開いた画面。上のインベントリに特定の売りたい魚を入れて
 左の金インゴットをクリックすると個別に売れます。まとめて売る場合は↓
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/Ay0fUIIsPO.png)
+![](/images/seesaa/Ay0fUIIsPO.webp)
 
 右のバケツをクリックするとまとめ売りできます。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/M5qNgpYHJU.png)
+![](/images/seesaa/M5qNgpYHJU.webp)
 
 売却成功！
 
@@ -56,7 +56,7 @@ sidebar:
 また、定期的に開催されるもの以外に、運営が突然開催する場合もあります。
 開催時間は、定期開催のものが**10分間**、運営開催のものが**??分間**です。
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/H2K_QfeWFr.04.17.png)
+![](/images/seesaa/H2K_QfeWFr.04.17.png)
 
 開催中は、画面上部に画像のように残り時間が表示されます。
 また、暫定1位になる魚が釣り上げられると、釣った人と魚が全体チャットに流れます。

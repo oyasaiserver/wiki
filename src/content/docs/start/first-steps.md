@@ -18,7 +18,7 @@ sidebar:
 - サーバーアドレスは「**oyasai.io**」です。
 - 「完了」を押すと、サーバーが表示されます。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/fef1bb74ca0e9aee.png)
+![](/images/seesaa/fef1bb74ca0e9aee.webp)
 
 4. 最後に、表示されたサーバーをクリックして「サーバーに接続」を押してログインです。
 
@@ -65,7 +65,7 @@ sidebar:
 鉱石を採掘するために「**資源ワールド**」のゲートへ行きましょう。
 「**鉱山ワールド**」へは資源ワールドへ入り、目の前の階段を降りるとテレポートできます。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/bV1f4WR5lF.jpg)
+![](/images/seesaa/bV1f4WR5lF.webp)
 
 <**/spawn**>で、ゲートエリアのあるロビーまで戻れます。
 
@@ -124,7 +124,7 @@ Menuショップに売られていないものでも、大抵は入手可能で�
 
 建築の適当な場所に看板を立て、**１行目に「likes」**、**2行目に「建築の名前」**と記入します。
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/tAfKWSPy0S.png)
+![](/images/seesaa/tAfKWSPy0S.png)
 
 ※もちろん建築の名前は自由に変えられます。
 
@@ -135,4 +135,4 @@ Menuショップに売られていないものでも、大抵は入手可能で�
 <**/spawn**>コマンドを打ち、最初の場所に戻ります。真っすぐ進み画像のところへ飛び込みます。
 ポータルを潜り抜けたら看板に沿ってお進みください。
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/axTYm7U4al.png)
+![](/images/seesaa/axTYm7U4al.webp)

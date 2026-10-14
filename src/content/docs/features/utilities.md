@@ -10,7 +10,7 @@ sidebar:
 
 `/oyasaibackpack`（短縮形 `/obp`）で自分のバックパックを開き、アイテムを出し入れします。利用できるサイズは1〜6段です。
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/81e3865c870715d1.png)
+![](/images/seesaa/81e3865c870715d1.webp)
 
 読み込み中や、既に開いている間は開き直せません。利用できる段数が減り、はみ出す位置に保存済みの物がある場合も開けません。運営へ相談してください。保存失敗の表示が出た場合は、再起動後も内容が残る保証がないため運営へ連絡してください。
 
@@ -26,7 +26,7 @@ sidebar:
 | クォーツのハーフブロック | 鉄ブロック |
 | 赤色のカーペット | 青色の羊毛 |
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/edXNCGHemt.png)
+![](/images/seesaa/edXNCGHemt.webp)
 
 移動先は40ブロック以内に作り、床の上に2ブロック分（赤色のカーペットは1ブロック分）の空間を空けてください。スペクテイターでは使えません。階数表示は周辺の探索範囲内で数えたものです。
 
@@ -228,5 +228,5 @@ Undoは額縁から8ブロック以内で実行してください。3回分の�
 
 権限不足の表示は利用資格、移動できない表示は移動先の安全や読み込みを確認してください。バックパックの読み込み・保存失敗は、その表示を運営へ伝えてください。おえかきで「キャンバスを読み込み中です」と出たら少し待って描き直します。
 
-[paint-image-1]: https://image01.seesaawiki.jp/o/i/oyasai/g7hOGImbnG.png
-[paint-image-2]: https://image02.seesaawiki.jp/o/i/oyasai/FIL31I9DmV.png
+[paint-image-1]: /images/seesaa/g7hOGImbnG.webp
+[paint-image-2]: /images/seesaa/FIL31I9DmV.webp

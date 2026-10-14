@@ -4,7 +4,7 @@ sidebar:
   order: 9
 ---
 
-![建築のいいね・評価の紹介画像](https://image02.seesaawiki.jp/o/i/oyasai/u_XvIvgFj2.png)
+![建築のいいね・評価の紹介画像](/images/seesaa/u_XvIvgFj2.webp)
 
 自分の建築に Like 看板を付けて紹介し、他の人の建築へ遊びに行って「いいね」できる機能です。建築一覧、作者のフォロー、旅行ガイド、いいねの統計も使えます。
 
@@ -152,8 +152,8 @@ SLTP看板を回収すると、その案内看板の持ち主は回収した人�
 
 看板が反応しない、更新後も元の場所に飛ぶ、報酬が届かない場合は、建築IDと行った操作を運営に伝えてください。
 
-[retained-image-1]: https://image02.seesaawiki.jp/o/i/oyasai/tAfKWSPy0S.png
-[retained-image-2]: https://image01.seesaawiki.jp/o/i/oyasai/MjGH3kewJq.png
-[retained-image-3]: https://image01.seesaawiki.jp/o/i/oyasai/9GYIQhX7DU.png
-[retained-image-4]: https://image02.seesaawiki.jp/o/i/oyasai/hLUTfaWajn.png
-[retained-image-5]: https://image02.seesaawiki.jp/o/i/oyasai/baf6f2700b6c40cc.png
+[retained-image-1]: /images/seesaa/tAfKWSPy0S.png
+[retained-image-2]: /images/seesaa/MjGH3kewJq.webp
+[retained-image-3]: /images/seesaa/9GYIQhX7DU.webp
+[retained-image-4]: /images/seesaa/hLUTfaWajn.webp
+[retained-image-5]: /images/seesaa/baf6f2700b6c40cc.webp

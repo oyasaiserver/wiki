@@ -18,7 +18,7 @@ sidebar:
 ## 路線図
 
 三小電鉄[在来・メトロ]ネットワーク（スポーンエリア）  
-![](https://image01.seesaawiki.jp/o/i/oyasai/dC9bK99p30.jpg)  
+![](/images/seesaa/dC9bK99p30.webp)  
 三小電鉄路線ご案内（対馬エリア）※地上線  
 ![](https://cdn.discordapp.com/attachments/814382511786033225/971403231001448478/20bc56bbf5e4f468.png)  
 三小地下鉄路線案内（対馬エリア）  
@@ -30,26 +30,26 @@ sidebar:
 
 ### 三小線SK(尿道炎〜中村台)
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/WpJxANcTVS.png)
+![](/images/seesaa/WpJxANcTVS.webp)
 
 ### 地下線
 
 ### 副都心線F(北雪住〜南部町)
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/6FPx7yuzVI.jpg)
+![](/images/seesaa/6FPx7yuzVI.webp)
 
 ### 多摩線T(ポート・ダイス〜多摩)
 
 ### 南海線NL NR(融臨〜ポート・ダイス)
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/wGkVne27RR.png)
+![](/images/seesaa/wGkVne27RR.webp)
 
 ## 会社概要
 
 ### 採用情報
 
 スポーンエリアのみの採用となります。対馬エリアの採用は行っておりません。  
-![](https://image01.seesaawiki.jp/o/i/oyasai/sMY1cuHex_.jpg)  
+![](/images/seesaa/sMY1cuHex_.webp)  
 三小電鉄HDでは、**私達と未来を創る仲間を募集しています**。  
 鉄道のこと、沿線のこと、  
 一緒に創って行きませんか？  

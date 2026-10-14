@@ -16,7 +16,7 @@ iPhoneでもAndroidでも、PS4でもXboxでもSwitchでも接続して遊べま
 | 接続アドレス | oyasai.io |
 | ポート | 19132(デフォルト) |
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/FQawHmy9mF.png)
+![](/images/seesaa/FQawHmy9mF.webp)
 
 **Switchの場合の入力例**
 外部サーバーに繋げれるようにしてから下記のように入力してください。
@@ -102,7 +102,7 @@ Java Editionでログインして、以下のコマンドでコードを生成�
 以下はJava EditionのID「DangerousG3」を、Bedrock Editionのゲーマータグ「Bajakun」とリンクしたい場合の例です。
 まずJava EditionでDangerousG3としてログインして、「/linkaccount Bajakun」コマンドを実行します。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/dzO93i9ot9.png)
+![](/images/seesaa/dzO93i9ot9.webp)
 
 こんな文章が出てきます。
 「**/linkaccount DangerousG3 5252**」が生成されたコードです。
@@ -113,9 +113,9 @@ Bedrock Editionでコードを打ち込み、リンクを完了させます。
 ★例
 先程Java Edition内で生成されたコード「**/linkaccount DangerousG3 5252**」をBedrock Editionで実行します。
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/wklgZzoUE_.png)
+![](/images/seesaa/wklgZzoUE_.webp)
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/J5BWR1ByUK.png)
+![](/images/seesaa/J5BWR1ByUK.png)
 
 この画面が出たら成功です。
 

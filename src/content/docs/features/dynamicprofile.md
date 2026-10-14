@@ -4,7 +4,7 @@ sidebar:
   order: 10
 ---
 
-![自己紹介・称号・おすすめ建築の紹介画像](https://image02.seesaawiki.jp/o/i/oyasai/f4208fc0b5548f36.png)
+![自己紹介・称号・おすすめ建築の紹介画像](/images/seesaa/f4208fc0b5548f36.webp)
 
 プロフィール、レベル、称号を見たり、自分の SocialLikes3 建築をおすすめとして登録したりできます。他のプレイヤーのプロフィールから、送金・テレポート申請・プレゼントもできます。
 

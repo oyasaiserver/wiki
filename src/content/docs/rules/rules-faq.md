@@ -52,7 +52,7 @@ sidebar:
 
 **-- あと挨拶も忘れずにオナシャス！--**
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/HCQAhtalzI.png)
+![](/images/seesaa/HCQAhtalzI.webp)
 
 ## 建築に関して ※超重要！
 

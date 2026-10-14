@@ -23,6 +23,12 @@ class Routes(unittest.TestCase):
         with self.assertRaises(ValueError):
             checker.target_path(checker.ROOT / "index.md", "../../private")
 
+    def test_public_images(self):
+        source = checker.ROOT / "community/wallpapers.md"
+        self.assertEqual(checker.target_path(source, "/images/seesaa/example.png"), pathlib.Path("public/images/seesaa/example.png").resolve())
+        with self.assertRaises(ValueError):
+            checker.target_path(source, "/images/%2e%2e/private.png")
+
 
 if __name__ == "__main__":
     unittest.main()

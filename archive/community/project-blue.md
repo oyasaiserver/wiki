@@ -17,11 +17,11 @@ sidebar:
 裾野には広大な土地が広がり、発展の可能性は無限大。  
 西からの風に備え、屋根の向きを揃えましょう。
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/ibjdIHtxY6.38.38.png)
+![](/images/seesaa/ibjdIHtxY6.38.38.webp)
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/8JZSC2OT2N.34.08.png)
+![](/images/seesaa/8JZSC2OT2N.34.08.webp)
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/OzjoceY61J.35.48.png)![](https://image02.seesaawiki.jp/o/i/oyasai/ejgkPcsl8x.33.33.png)![](https://image02.seesaawiki.jp/o/i/oyasai/zYCmXYrlUA.35.01.png)
+![](/images/seesaa/OzjoceY61J.35.48.webp)![](/images/seesaa/ejgkPcsl8x.33.33.webp)![](/images/seesaa/zYCmXYrlUA.35.01.webp)
 
 ## 建築をしたい方
 
@@ -32,7 +32,7 @@ sidebar:
 
 マスコットキャラクター・ドスケベドラゴンの貴重なシーン
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/OzjoceY61J.35.48.png)
+![](/images/seesaa/OzjoceY61J.35.48.webp)
 
 皆も島流し(BAN)されるからガイジ発言はやめようね  
 　　　　　　　　　　　　　　　　　　　by DOSUKEBE\_SEX

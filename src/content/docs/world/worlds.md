@@ -17,7 +17,7 @@ sidebar:
 * 歴代の匠像がある。
 * 爆発・延焼・モブ無効で安心安全。
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/ezJLhPic9n.png)
+![](/images/seesaa/ezJLhPic9n.webp)
 
 ### 注意事項
 
@@ -37,7 +37,7 @@ sidebar:
 * 畑や釣り場などを作って、ゆったりとしたマイクラライフを送ることもできる。
 * 色んな人が建てた様々な建築物を眺められる。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/FBf6Nqjkv4.png)  
+![](/images/seesaa/FBf6Nqjkv4.webp)  
 【作：umetaro323　題：草。教会】
 
 ### 注意事項
@@ -60,7 +60,7 @@ sidebar:
 * エンダーマン以外は湧きません。
 * エンドシティ・エンドシップはありません。
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/J_LVr3Havl.png)
+![](/images/seesaa/J_LVr3Havl.webp)
 
 ### 注意事項
 
@@ -76,7 +76,7 @@ sidebar:
 * 鉱石一括採掘機能が有効で、掘る時間も短縮されている。
 * 鉱山ワールドがあるのでわざわざ地下深くまで掘る必要がなく、建築により多くの時間を割ける。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/OSyb0Juq5u.png)
+![](/images/seesaa/OSyb0Juq5u.webp)
 
 ### 注意事項
 

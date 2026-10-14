@@ -9,7 +9,7 @@ sidebar:
 
 hirasyoが経営する建築会社です。  
 本社は、-37/64/478にあります。(**/spawn**→涅槃先輩方面へ直進)  
-![](https://image02.seesaawiki.jp/o/i/oyasai/rPinPYL7vn.31.59.png)  
+![](/images/seesaa/rPinPYL7vn.31.59.webp)  
 ↑本社建屋
 
 ## 入社と実務について
@@ -17,7 +17,7 @@ hirasyoが経営する建築会社です。
 1.下の求人情報から、自分が就きたい部署を選びます。
 
 2.選んだら、本社1階にある↓のような求人看板に行きます。  
-![](https://image01.seesaawiki.jp/o/i/oyasai/cOCTcKKBPW.33.03.png)  
+![](/images/seesaa/cOCTcKKBPW.33.03.webp)  
 部署下のlike看板を右クリックしてください。
 
 3.入社試験に合格した際、hirasyoにより社員番号が振られます。後々使用するので覚えておいてください。  

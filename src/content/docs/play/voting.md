@@ -36,7 +36,7 @@ Japan Minecraft Serversで投票するには事前登録が必要です。[登�
 
 登録・ログイン後は、[おやさいサーバーの投票ページ](https://minecraft.jp/servers/oyasai.icu)から投票できます。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/ZidXbQswwE.png)
+![](/images/seesaa/ZidXbQswwE.webp)
 
 - 投票ボタンを押し、認証を完了すると投票完了です。
 - JMSの投票リセット時刻は**毎日午前9時（日本時間）**です。

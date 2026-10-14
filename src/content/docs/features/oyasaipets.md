@@ -4,7 +4,7 @@ sidebar:
   order: 3
 ---
 
-![ペットを飼う・育てるの紹介画像](https://image01.seesaawiki.jp/o/i/oyasai/35e2d5e75bd59e80.png)
+![ペットを飼う・育てるの紹介画像](/images/seesaa/35e2d5e75bd59e80.webp)
 
 ペットを購入して召喚し、乗ったり、育てたり、収納したりできます。購入にはポイントを使います。
 
@@ -129,5 +129,5 @@ sidebar:
 
 [retained-image-1]: https://i.imgur.com/WaFLj3c.png
 [retained-image-2]: https://i.imgur.com/TNnJXSX.png
-[retained-image-3]: https://image02.seesaawiki.jp/o/i/oyasai/TWJnYcHYS9.50.32.png
+[retained-image-3]: /images/seesaa/TWJnYcHYS9.50.32.webp
 [retained-image-4]: https://i.imgur.com/crVMrYx.png

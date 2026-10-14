@@ -4,7 +4,7 @@ sidebar:
   order: 11
 ---
 
-![イベントの投票・審査の紹介画像](https://image02.seesaawiki.jp/o/i/oyasai/a057c86d7a42c852.png)
+![イベントの投票・審査の紹介画像](/images/seesaa/a057c86d7a42c852.webp)
 
 看板を右クリックして投票数を増やせる機能です。看板の登録、グループ分け、投票期間の設定、結果の確認もできます。投票は賛成・反対などを選ぶ方式ではなく、クリックごとに票数が増えます。
 
@@ -82,8 +82,8 @@ sidebar:
 
 `/sv help` で主なコマンドを確認できます。看板の移設、登録の削除、投票結果の全体リセットは運営に相談してください。
 
-[retained-image-1]: https://image01.seesaawiki.jp/o/i/oyasai/d5442f86c4e150f6.png
-[retained-image-2]: https://image01.seesaawiki.jp/o/i/oyasai/800aec045d1efdf7.png
-[retained-image-3]: https://image02.seesaawiki.jp/o/i/oyasai/20e5b2b7bbe5b03b.png
-[retained-image-4]: https://image01.seesaawiki.jp/o/i/oyasai/e1bcd837c41d1be6.png
-[retained-image-5]: https://image01.seesaawiki.jp/o/i/oyasai/2e28696fbe1f5358.png
+[retained-image-1]: /images/seesaa/d5442f86c4e150f6.webp
+[retained-image-2]: /images/seesaa/800aec045d1efdf7.webp
+[retained-image-3]: /images/seesaa/20e5b2b7bbe5b03b.webp
+[retained-image-4]: /images/seesaa/e1bcd837c41d1be6.png
+[retained-image-5]: /images/seesaa/2e28696fbe1f5358.webp

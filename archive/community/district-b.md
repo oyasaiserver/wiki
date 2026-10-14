@@ -13,5 +13,5 @@ sidebar:
 主にモダン、軍事系の建築が行われている地区です。  
 軍港を中心にビルや住宅街が広がる土地で  
 港は勿論、OR線（建設中）が通る鯖有数の都市です。  
-![](https://image02.seesaawiki.jp/o/i/oyasai/7khoy7H8oO.00.36.png)  
+![](/images/seesaa/7khoy7H8oO.00.36.webp)  
 ↑地区B

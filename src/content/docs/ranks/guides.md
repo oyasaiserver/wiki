@@ -9,7 +9,7 @@ sidebar:
 
 初級の方を案内するとポイントがもらえる様になります！！
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/f511df3e67bd5e5f.jpg)
+![](/images/seesaa/f511df3e67bd5e5f.webp)
 
 ## 📋 案内モードの使い方
 
@@ -47,12 +47,12 @@ sidebar:
 
 ### 1.初めて村TP先
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/2ea5169c18071e5c.png)
+![](/images/seesaa/2ea5169c18071e5c.webp)
 
 ### 2.住宅展示場匠エリア先
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/ebadf478729964a0.png)
+![](/images/seesaa/ebadf478729964a0.webp)
 
 ### 3.資源ワールド鉱山入口
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/93865d643237087c.png)
+![](/images/seesaa/93865d643237087c.webp)
