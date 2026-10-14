@@ -4,25 +4,30 @@ sidebar:
   order: 0
 ---
 
-おやさいサーバー独自の機能と、その使い方。
+やりたいことから、機能と使い方を探せます。
 
 ## 持ち運び・移動・ペット
 
-- [便利機能](/features/utilities/) — [バックパック](/features/utilities/#バックパック)・[エレベーター](/features/utilities/#エレベーター)・[おえかきマップ](/features/utilities/#おえかきマップ)
-- [乗り物](/features/vehicles/) — [車の出し方](/features/vehicles/#車の出し方)・[車の作り方](/features/vehicles/#車の作り方)・[車種一覧](/features/vehicles/#車種一覧)（旧版の記述つき）
-- [ペットを飼う・育てる](/features/oyasaipets/) — ペットの購入・召喚・交配・スキル（旧ペットプラグインの記述つき）
+- [持ち物・移動・採掘を便利にする](/features/utilities/) — [バックパック](/features/utilities/#バックパック)・[エレベーター](/features/utilities/#エレベーター)・ホーム・移動申請・採掘・飛行・ポーズ
+- [車・飛行機に乗る](/features/vehicles/) — 試乗・購入・運転・ガレージ・性能カスタム
+- [ペットを飼う・育てる](/features/oyasaipets/) — 購入・騎乗・収納・育成・スキル・交配・譲渡
 
-## 建築をつくる
+## 建築をつくる・飾る・取り込む
 
-- [道路・窓・柱をつくる建築補助](/features/citiesskymine/) — 窓・坂道・柱・ベジェ曲線などの建築補助コマンド
-- [アーマースタンド・動物を配置する](/features/entitypose/) — アーマースタンドや動物を配置・操作する建築補助
+- [道路・窓・柱をつくる建築補助](/features/citiesskymine/) — 道路・交差点・外壁・窓・坂道・柱・群衆・雲・曲線
+- [ブロックの向き・形を変える](/features/block-editing/) — 素手・編集棒で形や接続を調整し、素材を置換
+- [アーマースタンド・動物を配置する](/features/entitypose/) — 姿勢・位置・サイズを調整し、まとめてコピー・貼り付け
+- [画像を地図にして飾る](/features/frames/) — 画像の地図・ポスター、額縁のロック・透明化
+- [おえかきマップ](/features/utilities/#おえかきマップ) — 地図に染料やペンで絵を描く
+- [建築データをダウンロードする](/features/schematics/) — 配布IDから建築データを取得（青匠以上）
 
 ## 建築を紹介する・交流する
 
-- [建築のいいね・評価](/features/sociallikes/) — 建築物にイイネを付ける看板
-- [自己紹介・称号・おすすめ建築](/features/dynamicprofile/) — 自己紹介・称号・おすすめ建築の設定と順位確認
-- [イベントの投票・審査](/features/socialvotes/) — イベント用の投票システム
+- [建築のいいね・評価](/features/sociallikes/) — いいね看板・建築探し・フォロー・旅行ガイド・統計
+- [自己紹介・称号・おすすめ建築](/features/dynamicprofile/) — プロフィール編集・ランキング・送金・プレゼント
+- [イベントの投票・審査](/features/socialvotes/) — 看板投票・グループ・投票期間・結果確認
+- [チャットの送り先・言語を選ぶ](/features/chat/) — チャンネル・PM・日本語変換・翻訳・プレイヤー一覧
 
 ## 音楽をつくる・聴く
 
-- [音楽をつくる・聴く](/features/oyasaimusic/) — 楽曲の録音・試聴・レコード・環境BGM
+- [音楽をつくる・聴く](/features/oyasaimusic/) — 再生・プレイリスト・録音・公開・レコード・環境BGM
