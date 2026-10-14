@@ -21,5 +21,5 @@
 
 1. `main` から新しいブランチを切る。
 2. ページを書く。
-3. 原稿検査を通す（[README.md](README.md) の「原稿を確認する」）。完成サイトの検査は platform の `oyasai-web` が行う。
+3. 原稿検査を通す（[README.md](README.md) の「原稿を確認する」）。完成サイトの検査は platform の `oyasai-web` と、このリポジトリの GitHub Pages workflow が行う。
 4. PR を出す。タイトルは `docs: 〜` の形にする。
