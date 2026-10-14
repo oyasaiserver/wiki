@@ -1,5 +1,5 @@
 ---
-title: OyasaiMusic
+title: 音楽をつくる・聴く（OyasaiMusic）
 sidebar:
   order: 9
 ---
@@ -7,7 +7,7 @@ sidebar:
 
 ![](https://image02.seesaawiki.jp/o/i/oyasai/a0db041f0021b10c.png)
 
-## OyasaiMusicとは
+## 音楽をつくる・聴く
 
 音符ブロックの演奏を楽曲として保存し、サーバー内で試聴・いいね・プレイリスト登録できるプラグインです！  
 制作した曲はレコードにして、ジュークボックスから環境BGMとして流すこともできます。

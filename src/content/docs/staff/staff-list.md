@@ -13,7 +13,7 @@ sidebar:
 | なまえ | Kai\_Z\_JP | eru\_\_chan | Srain3 |
 | --- | --- | --- | --- |
 | 一言 | Plugin開発のカイザァです [GitHub](https://github.com/Kai-Z-JP) | うんこ [GitHub](https://github.com/shunueda) | たまによく消えてる人 [GitHub](https://github.com/Srain3) |
-| 開発♂ | [SocialLikes v1](/features/sociallikes/) [SocialLikes FastAsync](/features/sociallikes/) SocialTickets TDNBlocker | platform Vertex [SocialLikes v2](/features/sociallikes/) BlockStocks Navis ゆうきbot | [SocialLikes v3](/features/sociallikes/) [CarBuilder](/features/carbuilder2/) AircraftBuilder [PaintTools](/features/drawing-map/) OyasaiCarPlugin MachineCraft NotNBT SrainEventPack TPSwitch ServerNews 資源ワールド生成ルール |
+| 開発♂ | [SocialLikes v1](/features/sociallikes/) [SocialLikes FastAsync](/features/sociallikes/) SocialTickets TDNBlocker | platform Vertex [SocialLikes v2](/features/sociallikes/) BlockStocks Navis ゆうきbot | [SocialLikes v3](/features/sociallikes/) [CarBuilder](/features/vehicles/#車の出し方) AircraftBuilder [PaintTools](/features/utilities/#おえかきマップ) OyasaiCarPlugin MachineCraft NotNBT SrainEventPack TPSwitch ServerNews 資源ワールド生成ルール |
 
 | なまえ | renshobo | Nacukat | sahyuya |
 | --- | --- | --- | --- |

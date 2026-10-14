@@ -1,7 +1,7 @@
 ---
 title: ミニゲーム
 sidebar:
-  order: 5
+  order: 4
 ---
 
 

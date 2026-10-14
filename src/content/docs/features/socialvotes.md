@@ -1,13 +1,13 @@
 ---
-title: SocialVotes
+title: イベントの投票・審査（SocialVotes）
 sidebar:
-  order: 4
+  order: 8
 ---
 
 
 ![](https://image02.seesaawiki.jp/o/i/oyasai/a057c86d7a42c852.png)
 
-## SocialVotesとは
+## イベントで投票・審査する
 
 イベントなどで投票審査をするときにマイクラ内で投票システムを作れる独自プラグインです。  
 SocialLikesと似たシステムを採用しています。

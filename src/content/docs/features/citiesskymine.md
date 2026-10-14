@@ -1,7 +1,7 @@
 ---
-title: CitiesSkyMine
+title: 道路・窓・柱をつくる建築補助（CitiesSkyMine）
 sidebar:
-  order: 12
+  order: 4
 ---
 
 
@@ -11,7 +11,7 @@ sidebar:
 
 **CitiesSkylinesのような都市建築をMinecraftでもっと手軽に！**
 
-## CitiesSkyMineとは
+## 都市建築を補助する
 
 - Minecraft内で都市建築を補助するプラグインでWorldEditの選択範囲を使い、道路・交差点・窓・階段・柱割り・雲・ベジェ曲線などを生成することができます。
 - 窓の一括生成・坂道の自動ブロック配置・選択範囲操作など建築を加速するコマンドが使えます。
