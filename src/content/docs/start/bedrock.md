@@ -22,16 +22,16 @@ iPhoneでもAndroidでも、PS4でもXboxでもSwitchでも接続して遊べま
 外部サーバーに繋げれるようにしてから下記のように入力してください。
 その後、すべてをダウンロードして参加をクリックで参加できます。
 
-![](https://media.discordapp.net/attachments/1496990289179709551/1499709791457640458/2026042106085000_s.jpg?ex=69fbb7d5&is=69fa6655&hm=b2956c8db08730713eff63bfb270351933aed0b99b84715e4de83a9e61c37ec4&=&format=webp&width=1423&height=800)
+![](/images/discord/2026042106085000_s.webp)
 
-![](https://media.discordapp.net/attachments/1496990289179709551/1499709791939989616/2026042106090700_s.jpg?ex=69fbb7d5&is=69fa6655&hm=799871c1a11d8eb1fac6bc313a2567e52184b2cecf021d7d566ae386c650df40&=&format=webp&width=1423&height=800)
+![](/images/discord/2026042106090700_s.webp)
 
 ### スマホの場合の入力例
 右上のサーバーを追加から、新しいサーバーを追加に進み下記のように入力し、追加してプレイをタップで参加できます。
 
-![](https://media.discordapp.net/attachments/1496990289179709551/1501465794075164794/image.jpg?ex=69fc2c7d&is=69fadafd&hm=4ed8b535bdf5a2f4a67739eb539c10197c9846cc07eaa18edad9e957c6fd7ac7&=&format=webp&width=1730&height=800)
+![](/images/discord/image.webp)
 
-![](https://media.discordapp.net/attachments/1496990289179709551/1501465794360508446/image.jpg?ex=69fc2c7d&is=69fadafd&hm=56741f554fe5eb0b8adb067fab92d093b5652b818eca788c18fb12cf62c221f3&=&format=webp&width=1730&height=800)
+![](/images/discord/attachments-1496990289179709551-1501465794360508446-image.webp)
 
 ## Java版と統合版の紐付け方法
 

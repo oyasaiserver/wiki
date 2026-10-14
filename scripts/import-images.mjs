@@ -102,10 +102,17 @@ export function imageName(value, format, used) {
   return name;
 }
 
-async function sources() {
+async function sources(root = ROOT) {
   const files = new Map();
   for (const directory of ["src/content/docs", "archive"]) {
-    const entries = await readdir(path.join(ROOT, directory), { recursive: true, withFileTypes: true });
+    const dir = path.join(root, directory);
+    let entries;
+    try {
+      entries = await readdir(dir, { recursive: true, withFileTypes: true });
+    } catch (error) {
+      if (error.code !== "ENOENT") throw error;
+      continue;
+    }
     for (const entry of entries) {
       if (entry.isFile() && entry.name.endsWith(".md")) {
         const file = path.join(entry.parentPath, entry.name);
@@ -116,11 +123,23 @@ async function sources() {
   return files;
 }
 
-async function main() {
-  const files = await sources();
+export async function loadUrlMap(mapPath = process.env.IMAGE_URL_MAP) {
+  if (!mapPath) return new Map();
+  const data = JSON.parse(await readFile(mapPath, "utf8"));
+  return new Map((data.refreshed_urls ?? []).map(({ original, refreshed }) => [original, refreshed]));
+}
+
+export async function main(options = {}) {
+  const root = options.root ?? ROOT;
+  const manifestPath = options.manifestPath ?? path.join(root, "scripts/images.json");
+  const urlMap = options.urlMap ?? await loadUrlMap(options.mapPath ?? process.env.IMAGE_URL_MAP);
+  const request = options.request ?? fetch;
+  const command = options.command ?? run;
+  const sleepFn = options.sleep ?? sleep;
+  const files = await sources(root);
   let report;
   try {
-    report = JSON.parse(await readFile(MANIFEST, "utf8"));
+    report = JSON.parse(await readFile(manifestPath, "utf8"));
   } catch (error) {
     if (error.code !== "ENOENT") throw error;
     report = { images: {}, failures: [] };
@@ -129,7 +148,7 @@ async function main() {
   const targets = [...new Set(urls.filter((url) => HOSTS.has(new URL(url).hostname)))].sort();
   const used = new Map();
   for (const directory of ["seesaa", "discord"]) {
-    const output = path.join(ROOT, "public/images", directory);
+    const output = path.join(root, "public/images", directory);
     await mkdir(output, { recursive: true });
     used.set(directory, new Set((await readdir(output)).map((name) => name.toLowerCase())));
   }
@@ -139,23 +158,26 @@ async function main() {
   for (const [url, result] of Object.entries(report.images)) {
     allowedUrl(url);
     if (!/^\/images\/(seesaa|discord)\/[a-zA-Z0-9._-]+$/.test(result.path)) throw new Error("保存パスが不正です");
-    const bytes = await readFile(path.join(ROOT, "public", result.path));
+    const bytes = await readFile(path.join(root, "public", result.path));
     if (bytes.length > MAX_BYTES || bytes.length !== result.bytes || imageFormat(bytes) !== result.format) {
       throw new Error(`保存済み画像が対応表と一致しません: ${result.path}`);
     }
-    const converted = await convertImage(bytes, result.format);
+    const converted = await convertImage(bytes, result.format, command);
     result.originalBytes ??= bytes.length;
     if (converted.format !== result.format) {
       const directory = result.path.split("/")[2];
       const savedPath = `/images/${directory}/${imageName(url, converted.format, used.get(directory))}`;
-      await writeFile(path.join(ROOT, "public", savedPath), converted.bytes, { flag: "wx" });
+      await writeFile(path.join(root, "public", savedPath), converted.bytes, { flag: "wx" });
       replacementsByPath.set(result.path, savedPath);
-      originals.push(path.join(ROOT, "public", result.path));
+      originals.push(path.join(root, "public", result.path));
       Object.assign(result, { path: savedPath, bytes: converted.bytes.length, format: converted.format });
     }
   }
   report.failures = [];
-  const saveReport = () => writeFile(MANIFEST, JSON.stringify(report, null, 2) + "\n");
+  const saveReport = async () => {
+    await mkdir(path.dirname(manifestPath), { recursive: true });
+    return writeFile(manifestPath, JSON.stringify(report, null, 2) + "\n");
+  };
   let replacements = 0;
   const replaceReferences = async () => {
     for (const [file, text] of files) {
@@ -182,11 +204,12 @@ async function main() {
     let result;
     let failure;
     // 初回の取得と、最大3回の再試行。転送先も許可ホストに限定する。
+    const fetchUrl = urlMap.get(url) ?? url;
     for (let attempt = 0; attempt < 4; attempt++) {
-      await sleep(300);
+      if (sleepFn) await sleepFn(300);
       try {
-        const fetched = await fetchImage(url);
-        result = { ...await convertImage(fetched.bytes, fetched.format), originalBytes: fetched.bytes.length };
+        const fetched = await fetchImage(fetchUrl, request);
+        result = { ...await convertImage(fetched.bytes, fetched.format, command), originalBytes: fetched.bytes.length };
         break;
       } catch (error) {
         failure = error.message;
@@ -195,7 +218,7 @@ async function main() {
     if (result) {
       const directory = new URL(url).hostname.endsWith("seesaawiki.jp") ? "seesaa" : "discord";
       const name = imageName(url, result.format, used.get(directory));
-      await writeFile(path.join(ROOT, "public/images", directory, name), result.bytes, { flag: "wx" });
+      await writeFile(path.join(root, "public/images", directory, name), result.bytes, { flag: "wx" });
       report.images[url] = {
         path: `/images/${directory}/${name}`, bytes: result.bytes.length, format: result.format,
         originalBytes: result.originalBytes,
@@ -208,7 +231,9 @@ async function main() {
   }
   await replaceReferences();
   await saveReport();
-  console.log(JSON.stringify({ saved: Object.keys(report.images).length, failures: report.failures, replacements }, null, 2));
+  const summary = { saved: Object.keys(report.images).length, failures: report.failures, replacements };
+  console.log(JSON.stringify(summary, null, 2));
+  return summary;
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
