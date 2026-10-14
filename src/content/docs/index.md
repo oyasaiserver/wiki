@@ -2,7 +2,7 @@
 title: ホーム
 template: splash
 hero:
-  title: おやさいサーバー Wiki
+  title: おやさい鯖 Wiki
   actions:
     - text: 初めての方へ
       link: /start/first-steps/
@@ -12,7 +12,7 @@ hero:
       variant: secondary
 ---
 
-おやさいサーバーは、Java 版と統合版の両方で遊べる**建築サーバー**です。接続アドレスは `oyasai.io`。
+おやさい鯖は、Java版と統合版の両方で遊べる**建築サーバー**です。接続アドレスは `oyasai.io`。
 
 ## 知りたいことから探す
 
@@ -25,6 +25,6 @@ hero:
 | [機能・プラグイン](/features/) | SocialLikes、ペット、車、CitiesSkyMine などの独自機能。 |
 | [ワールド・観光・交通](/world/) | 各ワールド、観光案内、高速道路と鉄道。 |
 | [イベント・コミュニティ](/community/) | 建築イベント、壁紙、おやさい語、プレイヤーの組織。 |
-| [スタッフ・運営](/staff/) | スタッフ、サーバーの歴史、寄付。 |
+| [スタッフ・運営](/staff/) | 運営、サーバーの歴史、寄付。 |
 
-旧 Wiki（[wiki.oyasai.io](https://wiki.oyasai.io/)）の内容は、順次この Wiki に移しています。
+旧 Wiki([wiki.oyasai.io](https://wiki.oyasai.io/))の内容は、順次この Wiki に移しています。

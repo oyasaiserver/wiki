@@ -17,7 +17,7 @@ sidebar:
 
 ![](/images/seesaa/3Dc9bMGnUE.00.36_1080.jpg)  
 > 画像の枠の色について説明  
->  緑=資源系　水色と紫=自由建築地区　赤=観光名所(基本的に建築禁止)
+>  緑=資源系　水色と紫=自由建築地区　赤=観光名所（基本的に建築禁止）
 
 ## 自由建築地帯
 
@@ -55,55 +55,55 @@ sidebar:
 
 | RPGの街 | 風車村 | ぷいきゅあタウン |
 | --- | --- | --- |
-| 作成者：KTSG・kesunke | 作成者：FaIzUxXx | 作成者：Akainu\_chan |
+| 制作者：KTSG・kesunke | 制作者：FaIzUxXx | 制作者：Akainu\_chan |
 
 | 北西侵略軍基地 | 暗い森の集落 | 西村 |
 | --- | --- | --- |
-| 作成者：tetuyosi | 作成者：Srain3 | 作成者：WestJR\_Rin |
+| 制作者：tetuyosi | 制作者：Srain3 | 制作者：WestJR\_Rin |
 
 | セレスタイン | マジパンシティ | マジパンワールド |
 | --- | --- | --- |
-| 作成者：Kzrn | 作成者：marzipan99 | 作成者：marzipan99 |
+| 制作者：Kzrn | 制作者：marzipan99 | 制作者：marzipan99 |
 
 | アズール村 | 和風の街 | ファンタジーな村 |
 | --- | --- | --- |
-| 作成者：Rinseiq | 作成者：xxJAMxx | 作成者：xxJAMxx |
+| 制作者：Rinseiq | 制作者：xxJAMxx | 制作者：xxJAMxx |
 
 | 翠のまち | yaかた。 | 佐守市 |
 | --- | --- | --- |
-| 作成者：aruuiueo | 作成者：？？？ | 作成者：suberrymousse |
+| 制作者：aruuiueo | 制作者：？？？ | 制作者：suberrymousse |
 
 | ヴァッサレナ | エンジュ村 | オフタウン |
 | --- | --- | --- |
-| 作成者：kurenai0324 | 作成者：Faible\_ | 作成者：Futon2025 |
+| 制作者：kurenai0324 | 制作者：Faible\_ | 制作者：Futon2025 |
 
 | レタス村 | ベリーカワイイ城 | ルークス・カムエル |
 | --- | --- | --- |
-| 作成者：rokiseth | 作成者：Very\_Kawaii\_Boy | 作成者：nobutashu5 |
+| 制作者：rokiseth | 制作者：Very\_Kawaii\_Boy | 制作者：nobutashu5 |
 
 | 甘露村 | アセット広場 | 新マジパン市 |
 | --- | --- | --- |
-| 作成者：Nekokichi | 作成者：marzipan99 | 作成者：marzipan99 |
+| 制作者：Nekokichi | 制作者：marzipan99 | 制作者：marzipan99 |
 
 | 徳山再現 | 対馬県 | がもの村 |
 | --- | --- | --- |
-| 作成者：marzipan99 | 作成者：Rinseiq | 作成者：Shimo\_gamo |
+| 制作者：marzipan99 | 制作者：Rinseiq | 制作者：Shimo\_gamo |
 
 | くれないワールド | れんしょぼ個人ワールド | のぼのゲート |
 | --- | --- | --- |
-| 作成者：kurenai0324 | 作成者：renshobo | 作成者：nobomarl1019 |
+| 制作者：kurenai0324 | 制作者：renshobo | 制作者：nobomarl1019 |
 
 | ケツピンサーキット | オイミコン | indigo town |
 | --- | --- | --- |
-| 作成者：Nekokichi\_ | 作成者：jbad | 作成者：tomo\_jar |
+| 制作者：Nekokichi\_ | 制作者：jbad | 制作者：tomo\_jar |
 
 | コーヒー村 | 歪海の街 | 喜植天 |
 | --- | --- | --- |
-| 作成者：tomo\_jar | 作成者：sakuraakane | 作成者：sakuraakane |
+| 制作者：tomo\_jar | 制作者：sakuraakane | 制作者：sakuraakane |
 
 | 友楽島 | くれは村 | KTSG個人World |
 | --- | --- | --- |
-| 作成者：Leve\_Tomo | 作成者：Leve\_Tomo | 作成者：KTSG |
+| 制作者：Leve\_Tomo | 制作者：Leve\_Tomo | 制作者：KTSG |
 
 | 門前町 | 集落 |
 | --- | --- |
