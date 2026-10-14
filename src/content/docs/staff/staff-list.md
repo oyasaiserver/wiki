@@ -73,12 +73,21 @@ sidebar:
 | --- | --- | --- |
 | 一言 | | |
 
-## 過去の開発者
+## 過去の開発者・運営
 
 | なまえ | Srain3 |
 | --- | --- |
 | 一言 | たまによく消えてる人 [GitHub](https://github.com/Srain3) ※重鎮（鯖主追記） |
 | 開発♂ | [SocialLikes v3](/features/sociallikes/) [CarBuilder](/features/vehicles/#車の出し方) AircraftBuilder [PaintTools](/features/utilities/#おえかきマップ) OyasaiCarPlugin MachineCraft NotNBT SrainEventPack TPSwitch ServerNews 資源ワールド生成ルール |
+
+| なまえ | 当時の役割 |
+| --- | --- |
+| Monster2408 | 運営（MonsterLifeServer共同運営時代） |
+| umetaro323 | 運営 |
+| 84ql\_HiMiTsu | 運営 |
+| BBflat | 運営 |
+| Uekibachi | 運営 |
+| くれない姉貴 | モデレーター |
 
 ---
 
