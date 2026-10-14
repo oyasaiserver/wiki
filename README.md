@@ -1,21 +1,12 @@
 # おやさいサーバー Wiki
 
-おやさいサーバーのプレイヤー向け Wiki の原稿です。Markdown で書き、[MkDocs](https://www.mkdocs.org/)（Material テーマ）でサイトにします。
+おやさいサーバーのプレイヤー向け Wiki の原稿です。新 Wiki の原稿は `src/content/docs/` にあります。サイトの設定・テーマ・依存は [platform の oyasai-web](https://github.com/oyasaiserver/platform/tree/master/packages/oyasai-web) が管理します。
 
 ## 書き方
 
-どちらも PR になり、`main` に merge されたものが公開されます。
+GitHub の鉛筆マークから編集するか、ブランチを切って PR を作成してください。新しい配信コンテナの導入後は、`main` の変更を約5分間隔で確認し、ビルドと検査が成功した版だけを公開します。失敗した場合は前の版を配信し続けます。
 
-| 方法 | 向いている人 |
-|---|---|
-| GitHub 上で直接編集（ファイルを開いて鉛筆マーク） | Git を使わない人。保存すると PR になる |
-| ブランチを切って PR | Git を使う人、AI エージェント（[AGENTS.md](AGENTS.md)） |
-
-## フォルダー
-
-`docs/` の下に、目的別の「ハブ」フォルダーがあります。
-
-| フォルダー | ハブ |
+| フォルダー（`src/content/docs/` 以下） | ハブ |
 |---|---|
 | `start/` | はじめに・接続 |
 | `rules/` | ルールとマナー |
@@ -26,22 +17,22 @@
 | `community/` | イベント・コミュニティ |
 | `staff/` | スタッフ・運営 |
 
-- 1ページ1テーマ。ファイル名は英小文字とハイフン（例: `features/sociallikes.md`）。
-- ページ同士は相対リンクでつなぐ（例: `[SocialLikes](../features/sociallikes.md)`）。
-- 画像は `docs/assets/` に置く。
-- 新しいページはメニューに自動で並びます。ハブの名前と順番は各フォルダーの `.pages` で決めます。
+- 1ページ1テーマ。通常の `.md` を使用し、冒頭の YAML frontmatter に `title` を付けます。MDX・シンボリックリンク・submodule は使えません。
+- ページ間リンクは公開 URL（例: `[SocialLikes](/features/sociallikes/)`）で指定します。`index.md` はそのディレクトリの URL、その他の `.md` は拡張子を除いた末尾 `/` の URL になります。
+- サイドバーは自動生成されます。順番は frontmatter の `sidebar.order`、表示名は `sidebar.label` で指定します。
+- 画像は外部の HTTPS URL を参照します。原稿以外のファイルは配信コンテナへ取り込みません。
+- Markdown の生 HTML は無効です。frontmatter は `title`、`description`、`template`、`pagefind`、`sidebar`（`order`・`label`・`hidden`）、`hero`（テキスト・リンク・限定されたアイコン）に限定され、HTML・任意の属性やスクリプトは使えません。
+- 原稿の中身に関する事実の確認方法は [AGENTS.md](AGENTS.md) を参照してください。
 
-## 手元で確認する
+## 原稿を確認する
 
 ```bash
-pip install -r requirements.txt
-mkdocs serve
+python -m venv .venv
+.venv/bin/pip install -r requirements-content.txt
+.venv/bin/python -m unittest discover -s scripts -p 'test_*.py'
+.venv/bin/python scripts/check-content.py
 ```
 
-http://127.0.0.1:8000/ で見られます。Seesaa から移すページの一覧は Issue にあります。PR ごとに `mkdocs build --strict` が動き、リンク切れがあると失敗します。
+PR の CI は YAML・タイトル・内部ページリンクを検査します。アンカー、Starlight の schema、生成後のリンクと日本語検索は platform 側の全体ビルドで検査します。CI はサイトを公開しません。
 
-## まだ決まっていないこと
-
-- 公開先（サーバー・DNS）
-- Git を使わない人向けの編集画面（Decap CMS）。公開先と GitHub ログインの中継が決まったら入れる
-- サイト生成の道具。MkDocs 2.0 は今のプラグインやテーマが動かないため、`requirements.txt` で MkDocs 1.6 と Material 9.7 に固定している。原稿は Markdown なので、後継（Material チームの Zensical など）へ移るときも原稿は変えなくてよい。
+旧 `docs/`、`mkdocs.yml`、`requirements.txt` は移行中の参照として残しています。新 Wiki の原稿は `src/content/docs/` を編集してください。旧 MkDocs の CI ビルドは原稿検査へ切り替えています。
