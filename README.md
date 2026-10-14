@@ -17,6 +17,8 @@ GitHub の鉛筆マークから編集するか、ブランチを切って PR を
 | `community/` | イベント・コミュニティ |
 | `staff/` | スタッフ・運営 |
 
+公開をやめたページは、リポジトリ直下の `archive/` に移します。ここはビルドの対象外です。
+
 - 1ページ1テーマ。通常の `.md` を使用し、冒頭の YAML frontmatter に `title` を付けます。MDX・シンボリックリンク・submodule は使えません。
 - ページ間リンクは公開 URL（例: `[SocialLikes](/features/sociallikes/)`）で指定します。`index.md` はそのディレクトリの URL、その他の `.md` は拡張子を除いた末尾 `/` の URL になります。
 - サイドバーは自動生成されます。順番は frontmatter の `sidebar.order`、表示名は `sidebar.label` で指定します。
