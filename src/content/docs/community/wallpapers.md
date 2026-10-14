@@ -36,7 +36,7 @@ sidebar:
 
 | --- | --- | --- |
 | Xbox風 |  | 某恐竜ゲーム風 |
-| [壁紙](https://cdn.discordapp.com/attachments/1083771610206568608/1084572863828332644/oyasai_20230313_wallpaper.png) [アバターアイコン](https://cdn.discordapp.com/attachments/1083771610206568608/1084572863471829163/oyasai_20230313_icon.png) |  | [ダウンロード](https://image02.seesaawiki.jp/o/i/oyasai/Tnr44w8XbC.png) |
+| [壁紙](https://cdn.discordapp.com/attachments/1083771610206568608/1084572863828332644/oyasai_20230313_wallpaper.png) [アバターアイコン](https://cdn.discordapp.com/attachments/1083771610206568608/1084572863471829163/oyasai_20230313_icon.png) |  | [ダウンロード](/images/seesaa/Tnr44w8XbC.webp) |
 
 1920 x 1080  
 作：Uekibachi兄貴
@@ -90,7 +90,7 @@ sidebar:
 
 | --- | --- | --- |
 | ロゴ |  | Windows10風 |
-| [ダウンロード](https://image02.seesaawiki.jp/o/i/oyasai/ixS0aYmsYg.png) |  | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1066650980969623602/windowsoyasai10.png) |
+| [ダウンロード](/images/seesaa/ixS0aYmsYg.webp) |  | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1066650980969623602/windowsoyasai10.png) |
 
 1920 x 1080  
 作：Uekibachi兄貴
@@ -189,7 +189,7 @@ sidebar:
 
 | --- | --- | --- |
 | ティモシー・リアリー！？ |  | iPhone用 |
-| [ダウンロード](https://image02.seesaawiki.jp/o/i/oyasai/liJJgZYuhp.png) |  | [ダウンロード](https://image01.seesaawiki.jp/o/i/oyasai/GAJu0d9qG5.jpg) |
+| [ダウンロード](/images/seesaa/liJJgZYuhp.webp) |  | [ダウンロード](/images/seesaa/GAJu0d9qG5.webp) |
 
 解像度iPhone！？視差効果ON対応！？  
 作：marzipan99兄貴
@@ -198,7 +198,7 @@ sidebar:
 
 | --- |
 | ロゴ |
-| [ダウンロード](https://image01.seesaawiki.jp/o/i/oyasai/v46TLLUrjS.png) |
+| [ダウンロード](/images/seesaa/v46TLLUrjS.webp) |
 
 1920 x 1080  
 作：Uekibachi兄貴
@@ -207,7 +207,7 @@ sidebar:
 
 | --- | --- | --- |
 | ダブルチョコレート（ミスド） |  | ダブルチョコレート（嘘） |
-| [ダウンロード](https://image02.seesaawiki.jp/o/i/oyasai/NJnvzy2DvU.png) |  | [ダウンロード](https://image02.seesaawiki.jp/o/i/oyasai/HT6xsfrPKc.png) |
+| [ダウンロード](/images/seesaa/NJnvzy2DvU.webp) |  | [ダウンロード](/images/seesaa/HT6xsfrPKc.webp) |
 
 1920 x 1080  
 作：Uekibachi兄貴
@@ -216,7 +216,7 @@ sidebar:
 
 | --- |
 | Cyberpunk 2022 |
-| [ダウンロード](https://image02.seesaawiki.jp/o/i/oyasai/NKkxP045Di.png) |
+| [ダウンロード](/images/seesaa/NKkxP045Di.webp) |
 
 1920 x 1081  
 作：marzipan99兄貴
@@ -225,7 +225,7 @@ sidebar:
 
 | --- | --- | --- |
 | Windows10！？ |  | おやさいMatrix空間内における34Nick |
-| [ダウンロード](https://image01.seesaawiki.jp/o/i/oyasai/ZFsstFRW8z.png) |  | [ダウンロード](https://image02.seesaawiki.jp/o/i/oyasai/gNnHTS5JYF.png) |
+| [ダウンロード](/images/seesaa/ZFsstFRW8z.webp) |  | [ダウンロード](/images/seesaa/gNnHTS5JYF.webp) |
 
 1920 x 1080  
 作：Uekibachi兄貴
@@ -234,7 +234,7 @@ sidebar:
 
 | --- |
 | Apple WWDC 2022！？ |
-| [ダウンロード](https://image02.seesaawiki.jp/o/i/oyasai/uRIFpjiiK7.png) |
+| [ダウンロード](/images/seesaa/uRIFpjiiK7.webp) |
 
 4000 x 2250  
 作：marzipan99兄貴
@@ -243,7 +243,7 @@ sidebar:
 
 | --- | --- | --- |
 | 1 |  | 2 |
-| [ダウンロード](https://image02.seesaawiki.jp/o/i/oyasai/sfkb2Ak9B1.png) |  | [ダウンロード](https://image01.seesaawiki.jp/o/i/oyasai/xVlCaXRow7.png) |
+| [ダウンロード](/images/seesaa/sfkb2Ak9B1.webp) |  | [ダウンロード](/images/seesaa/xVlCaXRow7.webp) |
 
 1920 x 1080  
 作：Uekibachi兄貴

@@ -4,7 +4,7 @@ sidebar:
   order: 4
 ---
 
-![道路・窓・柱をつくる建築補助の紹介画像](https://image01.seesaawiki.jp/o/i/oyasai/b7d504e6bd07b033.png)
+![道路・窓・柱をつくる建築補助の紹介画像](/images/seesaa/b7d504e6bd07b033.webp)
 
 道路・交差点・外壁・窓・坂道・柱・群衆・雲・曲線を作る建築補助機能です。WorldEdit の選択範囲の保存、複製、ブラシの呼び出しもできます。使える機能は運営が決めます。
 

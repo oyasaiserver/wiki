@@ -15,6 +15,12 @@ def target_path(source, target):
     if url.scheme or url.netloc or not url.path:
         return None
     route = urllib.parse.unquote(url.path)
+    if route.startswith("/images/"):
+        image_root = pathlib.Path("public/images").resolve()
+        destination = (pathlib.Path("public") / route.lstrip("/")).resolve()
+        if not destination.is_relative_to(image_root):
+            raise ValueError(f"画像の範囲外: {target}")
+        return destination
     if route.startswith("/"):
         destination = ROOT / route.lstrip("/")
     else:

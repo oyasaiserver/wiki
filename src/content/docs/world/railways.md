@@ -11,7 +11,7 @@ sidebar:
 
 ## おやさい鯖路線図
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/iJH29pYBUH.png)
+![](/images/seesaa/iJH29pYBUH.webp)
 
 ## 各鉄道案内
 
@@ -91,11 +91,11 @@ sidebar:
 ## 三小電鉄(三小メトロ)
 
 詳細は[こちら](/world/sansho-railway/)  
-![](https://image01.seesaawiki.jp/o/i/oyasai/dC9bK99p30.jpg)
+![](/images/seesaa/dC9bK99p30.webp)
 
 ### 三小線 SK
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/WpJxANcTVS.png)  
+![](/images/seesaa/WpJxANcTVS.webp)  
 急行停車駅は◎印表記。
 
 #### ◎SK01尿道炎　[OR郊外連絡線｜副都心線(三小電鉄)]
@@ -106,7 +106,7 @@ sidebar:
 
 ### 副都心線 F
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/6FPx7yuzVI.jpg)
+![](/images/seesaa/6FPx7yuzVI.webp)
 
 #### F01北雪住
 
@@ -124,7 +124,7 @@ sidebar:
 
 ### 南海線　NL,NR
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/wGkVne27RR.png)
+![](/images/seesaa/wGkVne27RR.webp)
 
 ### 南海線各駅停車NL
 

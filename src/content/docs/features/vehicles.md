@@ -4,7 +4,7 @@ sidebar:
   order: 2
 ---
 
-![車・飛行機に乗るの紹介画像](https://image02.seesaawiki.jp/o/i/oyasai/pI7T4IXo_W.png)
+![車・飛行機に乗るの紹介画像](/images/seesaa/pI7T4IXo_W.webp)
 
 CarBuilder2 で車、AircraftBuilder で飛行機を試乗・購入できます。総合メニューには「統合版は非対応」と表示されます。購入した車両はアイテムとして持ち運び、ブロックの上で使います。ポイントは車両の購入や性能カスタムに使います。
 
@@ -88,23 +88,23 @@ CarBuilder2 で車、AircraftBuilder で飛行機を試乗・購入できます�
 | `[OyasaiVehicles] ガレージに収納しました` | 車両アイテムを持ち物に戻せなかったため、ガレージへ送りました。 |
 | `[OyasaiVehicles] ガレージに空きがないため、足元にアイテムをドロップしました!` | ガレージも満杯だったため、アイテムが足元に落ちました。拾ってください。 |
 
-[retained-image-1]: https://image01.seesaawiki.jp/o/i/oyasai/1feca8ad7f48b01d.png
-[retained-image-2]: https://image01.seesaawiki.jp/o/i/oyasai/e_oP011sAv.25.52.png
-[retained-image-3]: https://image01.seesaawiki.jp/o/i/oyasai/R4dt8C2XTP.39.29.png
-[retained-image-4]: https://image02.seesaawiki.jp/o/i/oyasai/N9Kgith_38.png
-[retained-image-5]: https://image01.seesaawiki.jp/o/i/oyasai/h2TR2ktpB8.png
-[retained-image-6]: https://image02.seesaawiki.jp/o/i/oyasai/f6CglPw3Qx.png
-[retained-image-7]: https://image02.seesaawiki.jp/o/i/oyasai/NkMNxdECKl.32.37.png
-[retained-image-8]: https://image02.seesaawiki.jp/o/i/oyasai/1GhdIrjJg_.33.46.png
-[retained-image-9]: https://image02.seesaawiki.jp/o/i/oyasai/L5EkjWWMm0.33.14.png
-[retained-image-10]: https://image02.seesaawiki.jp/o/i/oyasai/7vlKaKdIP9.png
-[retained-image-11]: https://image01.seesaawiki.jp/o/i/oyasai/vFLDoEUID4.png
-[retained-image-12]: https://image01.seesaawiki.jp/o/i/oyasai/e2Ft154rR2.png
-[retained-image-13]: https://image01.seesaawiki.jp/o/i/oyasai/MkDu4Djd_X.png
-[retained-image-14]: https://image02.seesaawiki.jp/o/i/oyasai/tFzV5YPWPj.png
+[retained-image-1]: /images/seesaa/1feca8ad7f48b01d.webp
+[retained-image-2]: /images/seesaa/e_oP011sAv.25.52.webp
+[retained-image-3]: /images/seesaa/R4dt8C2XTP.39.29.webp
+[retained-image-4]: /images/seesaa/N9Kgith_38.webp
+[retained-image-5]: /images/seesaa/h2TR2ktpB8.webp
+[retained-image-6]: /images/seesaa/f6CglPw3Qx.webp
+[retained-image-7]: /images/seesaa/NkMNxdECKl.32.37.webp
+[retained-image-8]: /images/seesaa/1GhdIrjJg_.33.46.webp
+[retained-image-9]: /images/seesaa/L5EkjWWMm0.33.14.webp
+[retained-image-10]: /images/seesaa/7vlKaKdIP9.webp
+[retained-image-11]: /images/seesaa/vFLDoEUID4.webp
+[retained-image-12]: /images/seesaa/e2Ft154rR2.webp
+[retained-image-13]: /images/seesaa/MkDu4Djd_X.webp
+[retained-image-14]: /images/seesaa/tFzV5YPWPj.webp
 [retained-image-15]: https://static.seesaawiki.jp/formatter-storage/images/function/fukidashi/icon_guest.gif
-[retained-image-16]: https://image02.seesaawiki.jp/o/i/oyasai/G3Uh_WDJyQ.png
-[retained-image-17]: https://image01.seesaawiki.jp/o/i/oyasai/n8Gf234gEa.png
+[retained-image-16]: /images/seesaa/G3Uh_WDJyQ.webp
+[retained-image-17]: /images/seesaa/n8Gf234gEa.png
 
 ## 車種一覧
 

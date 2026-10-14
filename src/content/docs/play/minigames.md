@@ -4,7 +4,7 @@ sidebar:
   order: 4
 ---
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/vXCaEOty_S.png)
+![](/images/seesaa/vXCaEOty_S.webp)
 
 おやさいサーバーでは、建築の合間に楽しめるよう、さまざまなミニゲームが用意されています。
 
@@ -120,25 +120,25 @@ sidebar:
 ### マップ紹介
 
 #### HyperSparce
-![](https://image01.seesaawiki.jp/o/i/oyasai/b989c5a936a2b361.png)
+![](/images/seesaa/b989c5a936a2b361.webp)
 
 #### Poolroom
-![](https://image02.seesaawiki.jp/o/i/oyasai/0abde22153bbf4e6.png)
+![](/images/seesaa/0abde22153bbf4e6.webp)
 
 #### WindCherge
-![](https://image02.seesaawiki.jp/o/i/oyasai/c10b766492a6dece.png)
+![](/images/seesaa/c10b766492a6dece.webp)
 
 #### Toilet
-![](https://image02.seesaawiki.jp/o/i/oyasai/1a70e26e4a7e3869.png)
+![](/images/seesaa/1a70e26e4a7e3869.webp)
 
 #### Ocean
-![](https://image01.seesaawiki.jp/o/i/oyasai/bebd4fbc54be3b5b.png)
+![](/images/seesaa/bebd4fbc54be3b5b.webp)
 
 ## TNTRun
 
 足元の床が消えていく中で、落ちずに最後まで走り続ける生き残りゲームです。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/b40e061d6f9b6fdb.png)
+![](/images/seesaa/b40e061d6f9b6fdb.webp)
 
 ### 参加方法と遊び方
 
@@ -161,7 +161,7 @@ sidebar:
 
 運営が設置したスロット台や対象エンティティを右クリックし、画面のレバーを押して遊びます。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/23f8ad553d3b4d3e.png)
+![](/images/seesaa/23f8ad553d3b4d3e.webp)
 
 - 料金はスロット台に表示されます。台によっては景品一覧も確認できます。
 - 画面を閉じても抽選は継続して行われます。

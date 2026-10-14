@@ -10,7 +10,7 @@ sidebar:
 おやさい鯖のX=-900,Z=1100にあります。  
 主にモダン風建築が行われている開発区です。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/UwTkAs07jG.37.03.png)  
+![](/images/seesaa/UwTkAs07jG.37.03.webp)  
 ↑ケイン地区 上空写真
 
 ## 開発の参加について
@@ -20,6 +20,6 @@ sidebar:
 
 ## 開発計画
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/q05v3FhDMj.49.15_LI.jpg)  
+![](/images/seesaa/q05v3FhDMj.49.15_LI.webp)  
 水色のラインを境に、左上(南西部)がビル街、右下(北東部)が住宅街となっています。  
 開発の際にご留意ください。

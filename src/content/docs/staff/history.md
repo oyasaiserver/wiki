@@ -318,7 +318,7 @@ Srain3復活
 ### 2022年12月15日
 
 地中から復活した（事実）Srain3が修正不可能と思われた生成バグを直す。
-![](https://image01.seesaawiki.jp/o/i/oyasai/7hbaUuq9zx-s.png)実際の写真
+![](/images/seesaa/7hbaUuq9zx-s.webp)実際の写真
 
 ### 2023年3月23日
 

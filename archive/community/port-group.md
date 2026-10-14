@@ -5,7 +5,7 @@ sidebar:
 ---
 
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/me0SVK1yXe.png)
+![](/images/seesaa/me0SVK1yXe.webp)
 
 ## ポート・ダイス市
 
@@ -18,11 +18,11 @@ sidebar:
 ダイス港を中心に、数々の匠や建築士の建築や、お野菜最大の地下商店街[Alpha's Port Avenue]は必見。  
 港は勿論、OR線、三小メトロ線、大都市線（建設中）が通る鯖有数の都市です。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/CyLh1rXVez.53.12.png)
+![](/images/seesaa/CyLh1rXVez.53.12.webp)
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/ndqKF3QVUN.54.30.png)
+![](/images/seesaa/ndqKF3QVUN.54.30.webp)
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/H4RBacYZND.33.05.png)
+![](/images/seesaa/H4RBacYZND.33.05.webp)
 
 ## 市民になりたい方
 
@@ -35,4 +35,4 @@ sidebar:
 特別区にそびえる匠、建築士や上級者達の建築を真似するのをおすすめしています。  
 また、三小メトロ副都心線ポート・ダイス駅にはおやさい鯖最大の地下商店街 [Alpha's Port Avenue] が存在します。  
 9x9の小さなスペースで内装を勉強するのも良いでしょう。  
-![](https://image02.seesaawiki.jp/o/i/oyasai/f9Ow7zvnUy.32.19.png)
+![](/images/seesaa/f9Ow7zvnUy.32.19.webp)

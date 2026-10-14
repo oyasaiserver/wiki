@@ -7,7 +7,7 @@ sidebar:
 チャット欄に `/menu`（短縮形 `/mn`）と入力すると、おやさいサーバーの総合メニュー画面を開くことができます。
 また、メニューアイテム（メニュー本）を手に持って右クリックすることでも開けます。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/U5bpcaZ6P4.png)
+![](/images/seesaa/U5bpcaZ6P4.webp)
 
 ## メニューの開き方
 
@@ -23,7 +23,7 @@ sidebar:
 
 ### チャット切り替え
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/a5Sep3xmCY.png)
+![](/images/seesaa/a5Sep3xmCY.webp)
 
 参加するチャットルームの切り替えや、現在の各チャンネルの接続人数を確認できます。
 
@@ -32,7 +32,7 @@ sidebar:
 建材や装飾ブロックなどを購入したり、採掘した鉱石を売却したりできます。
 コマンド `/shop`（短縮形 `/sh`）から直接開くことも可能です。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/uqHL37AAhz.png)
+![](/images/seesaa/uqHL37AAhz.webp)
 
 - **カテゴリ直接指定**:
   - `/shop blocks`（短縮 `/shop bl`）: 建材ショップ
@@ -43,7 +43,7 @@ sidebar:
 
 #### ショップ画面の操作方法
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/zC420g5fY_.jpg)
+![](/images/seesaa/zC420g5fY_.webp)
 
 - **購入と売却**:
   - 通常は **左クリックで購入**、**右クリックで売却** します。
@@ -79,8 +79,8 @@ sidebar:
 
 スポーン地点へのテレポート、作業台、エンダーチェスト、バックパック、ゲームモード変更などのショートカットが用意されています。
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/8jTI7e7dZv.png)
-![](https://image02.seesaawiki.jp/o/i/oyasai/q3GFdcl2cn.png)
+![](/images/seesaa/8jTI7e7dZv.webp)
+![](/images/seesaa/q3GFdcl2cn.webp)
 
 - **作業台**: どこでも作業台画面を開きます（`/c`）。
 - **エンダーチェスト**: どこでもエンダーチェストを開きます（`/ec`）。
@@ -95,20 +95,20 @@ sidebar:
 建築物を登録して「イイネ」を受け取ったり、他の人の建築を検索・訪問できる機能です。
 詳しくは [SocialLikes](/features/sociallikes/) をご覧ください。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/F0L46F_xX5.png)
+![](/images/seesaa/F0L46F_xX5.webp)
 
 ### CarBuilder & 乗り物
 
 車両の購入・カスタマイズ・スポーンを行えます。
 詳しくは [乗り物](/features/vehicles/) をご覧ください。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/OyhzjZjgLB.png)
+![](/images/seesaa/OyhzjZjgLB.webp)
 
 ### 各種リンク
 
 公式DiscordやWebMap、投票サイトなどへのリンクが集約されています。クリックするとチャット欄にURLが表示されます。
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/Qq34OhiHXl.png)
+![](/images/seesaa/Qq34OhiHXl.webp)
 
 ## 困ったとき・エラーメッセージ
 

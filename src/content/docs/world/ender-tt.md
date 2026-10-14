@@ -9,7 +9,7 @@ sidebar:
 
 /spawnと入力しスポーンに向かいます  
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/3I4JJzgI_S.png)  
+![](/images/seesaa/3I4JJzgI_S.webp)  
 
 この場所に降り立っていれば成功です
 
@@ -17,30 +17,30 @@ sidebar:
 
 そのまま直進します  
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/axTYm7U4al.png)  
+![](/images/seesaa/axTYm7U4al.webp)  
 
 右手にエンドポータルがあるので飛び込みます
 
 ## TTへ向かう
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/kIDCExWK_f.png)  
+![](/images/seesaa/kIDCExWK_f.webp)  
 
 ポータルを潜り抜けるとこのような場所に着くはずです。  
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/WebRkmEg31.png)  
-![](https://image01.seesaawiki.jp/o/i/oyasai/tuQwdZJlp4.png)  
+![](/images/seesaa/WebRkmEg31.webp)  
+![](/images/seesaa/tuQwdZJlp4.webp)  
 
 あとは看板に従って移動してください。
 
 ## 到着
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/tTzszKGYdP.png)  
-![](https://image01.seesaawiki.jp/o/i/oyasai/kAtnIoNwnE.png)  
+![](/images/seesaa/tTzszKGYdP.webp)  
+![](/images/seesaa/kAtnIoNwnE.webp)  
 
 トロッコでエンダーTTに移動してください。  
 到着したらトロッコは必ず回収してください！  
 
-![](https://image02.seesaawiki.jp/o/i/oyasai/iZyYwWzICi.24.57.png)  
+![](/images/seesaa/iZyYwWzICi.24.57.webp)  
 
 左手にショップがあります  
 
@@ -52,7 +52,7 @@ sidebar:
 
 ## エンチャント台、金床
 
-![](https://image01.seesaawiki.jp/o/i/oyasai/jmzOai6opl.25.27.png)  
+![](/images/seesaa/jmzOai6opl.25.27.webp)  
 
 エンチャント台、金床完備です！  
 
