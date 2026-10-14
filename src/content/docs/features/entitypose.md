@@ -1,5 +1,5 @@
 ---
-title: アーマースタンド・動物を配置する（EntityPose）
+title: アーマースタンド・動物を配置する(EntityPose)
 sidebar:
   order: 6
 ---
@@ -80,18 +80,18 @@ sidebar:
 | やりたいこと | コマンド |
 |---|---|
 | コマンド一覧を見る | `/ep` |
-| エンティティ棒を受け取る | `/ep stick`（`/ep st`） |
-| Copy Wandを受け取る | `/ep wand`（`/ep wa`） |
-| 視線の先の情報を見る | `/ep info`（`/ep in`） |
-| 視線の先の設定を開く | `/ep infoset`（`/ep ins`） |
-| スケールを指定する | `/ep scale 数値`（`/ep sc`） |
-| 角度の刻みを指定する／選ぶ | `/ep kakudo 数値`（`/ep ka`）。数値を省略すると選択画面 |
-| 移動量の刻みを指定する／選ぶ | `/ep zahyo 数値`（`/ep za`）。数値を省略すると選択画面 |
-| コピー範囲を解除する | `/ep clear`（`/ep cl`） |
-| 選択したエンティティをコピーする | `/ep copy`（`/ep co`） |
-| コピーしたエンティティを貼り付ける | `/ep paste`（`/ep pa`） |
-| 選択したエンティティを削除する | `/ep cut`（`/ep cu`） |
-| 一時的な足場を使う／止める | `/ep hojo on`／`/ep hojo off`（`/ep ho`） |
+| エンティティ棒を受け取る | `/ep stick`(`/ep st`) |
+| Copy Wandを受け取る | `/ep wand`(`/ep wa`) |
+| 視線の先の情報を見る | `/ep info`(`/ep in`) |
+| 視線の先の設定を開く | `/ep infoset`(`/ep ins`) |
+| スケールを指定する | `/ep scale 数値`(`/ep sc`) |
+| 角度の刻みを指定する／選ぶ | `/ep kakudo 数値`(`/ep ka`)。数値を省略すると選択画面 |
+| 移動量の刻みを指定する／選ぶ | `/ep zahyo 数値`(`/ep za`)。数値を省略すると選択画面 |
+| コピー範囲を解除する | `/ep clear`(`/ep cl`) |
+| 選択したエンティティをコピーする | `/ep copy`(`/ep co`) |
+| コピーしたエンティティを貼り付ける | `/ep paste`(`/ep pa`) |
+| 選択したエンティティを削除する | `/ep cut`(`/ep cu`) |
+| 一時的な足場を使う／止める | `/ep hojo on`／`/ep hojo off`(`/ep ho`) |
 
 ## 困ったとき
 

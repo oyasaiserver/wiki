@@ -62,7 +62,7 @@ sidebar:
 ---
 
 | --- | --- | --- |
-| アチアチロゴ810℃ |  | ゲーミング風(Razer寄り) |
+| アチアチロゴ810℃ |  | ゲーミング風（Razer寄り） |
 | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1079365360505077800/untitle31551515d.png) |  | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1079367464967745616/oyasai111111.png) |
 
 1920 x 1080  
@@ -71,7 +71,7 @@ sidebar:
 ---
 
 | --- |
-| おやさい鯖 R6Sブラックアイス風背景(原文) |
+| おやさい鯖 R6Sブラックアイス風背景（原文） |
 | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/1079314501117165669/oyasai_blackice_back.png) |
 
 1920 x 1080  
@@ -152,7 +152,7 @@ sidebar:
 ---
 
 | --- | --- | --- |
-| ロゴ（TRON） |  | ロゴ（Windows7風） |
+| ロゴ(TRON) |  | ロゴ（Windows7風） |
 | [ダウンロード](https://photos.app.goo.gl/sSw1QsPsADMkDkSe6) |  | [ダウンロード](https://cdn.discordapp.com/attachments/725071175201587280/966353223684350102/oysi7.png) |
 
 3840 x 2160  

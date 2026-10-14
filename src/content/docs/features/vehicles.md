@@ -1,5 +1,5 @@
 ---
-title: 車・飛行機に乗る（OyasaiVehicles）
+title: 車・飛行機に乗る(OyasaiVehicles)
 sidebar:
   order: 2
 ---
@@ -46,14 +46,14 @@ CarBuilder2 で車、AircraftBuilder で飛行機を試乗・購入できます�
 
 クルーズの切替は前進速度が一定以上（0.05以上）のときだけできます。`S` のブレーキで解除されます。
 
-`/realvehicle camera`（`/rvmenu camera`）で、車両の旋回に合わせた視点追尾を切り替えます。初期状態は無効です。
+`/realvehicle camera`(`/rvmenu camera`)で、車両の旋回に合わせた視点追尾を切り替えます。初期状態は無効です。
 
 ## ガレージ・表示設定
 
-- `/realvehicle garage`（`/rvmenu garage`）でガレージを開きます。車両アイテムだけを通常の左クリックで収納・取り出します。Shift移動、右クリックによる分割、ドラッグなどは使えません。
-- `/realvehicle net`（`/rvmenu net`）で表示更新の設定を `Ultra` → `High` → `Medium` → `Low` の順に切り替えます。
-- `/realvehicle break`（`/rvmenu break`）で自分が出した乗り物を終了します。購入車両は終了後に持ち主へ返されます。
-- `/realvehicle vip car_smoke`（`/rvmenu vip car_smoke`）で車のドリフト煙の色を選びます。利用できない場合は `[OyasaiVehicles] 権限がありません。` と表示され、寄付案内が続きます。寄付者向けの機能です。利用については運営に確認してください。
+- `/realvehicle garage`(`/rvmenu garage`)でガレージを開きます。車両アイテムだけを通常の左クリックで収納・取り出します。Shift移動、右クリックによる分割、ドラッグなどは使えません。
+- `/realvehicle net`(`/rvmenu net`)で表示更新の設定を `Ultra` → `High` → `Medium` → `Low` の順に切り替えます。
+- `/realvehicle break`(`/rvmenu break`)で自分が出した乗り物を終了します。購入車両は終了後に持ち主へ返されます。
+- `/realvehicle vip car_smoke`(`/rvmenu vip car_smoke`)で車のドリフト煙の色を選びます。利用できない場合は `[OyasaiVehicles] 権限がありません。` と表示され、寄付案内が続きます。寄付者向けの機能です。利用については運営に確認してください。
 
 ## 性能カスタム
 
@@ -220,7 +220,7 @@ CarBuilder2 で車、AircraftBuilder で飛行機を試乗・購入できます�
 | mahounohonn1 |
 | --- |
 
-### 製作者：rinta227
+### 制作者：rinta227
 
 | rinta\_tank\_type1 |
 | --- |

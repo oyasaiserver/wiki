@@ -18,7 +18,7 @@ sidebar:
 | なまえ | renshobo | Nacukat | sahyuya |
 | --- | --- | --- | --- |
 | 一言 | ??? | 水球に両価性を抱く | ！！！ |
-| 開発♂ | WorldEdit用Craftscripts （改良版//stack "nstack"） Easy Gradation Easy Gradation 2 Noised Gradation Object Easy Print New Bezier Curve Tool mf.js(開発用) Belt Cylinder Generator Spiral Generator Sector Generator Object Size Modifier SomeItemsPlugin | DynamicProfile OyasaiChat | SocialVotes OyasaiMenu OyasaiMusic |
+| 開発♂ | WorldEdit用Craftscripts （改良版//stack "nstack"） Easy Gradation Easy Gradation 2 Noised Gradation Object Easy Print New Bezier Curve Tool mf.js（開発用） Belt Cylinder Generator Spiral Generator Sector Generator Object Size Modifier SomeItemsPlugin | DynamicProfile OyasaiChat | SocialVotes OyasaiMenu OyasaiMusic |
 
 | なまえ | ankokun\_san | REVoLVER\_EVoL |
 | --- | --- | --- |

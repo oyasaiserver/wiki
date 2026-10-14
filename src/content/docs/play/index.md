@@ -10,7 +10,7 @@ sidebar:
 
 - [経済](/play/economy/) — 通貨（円・トークン）・メニューショップ・お金の稼ぎ方
 - [投票について](/play/voting/) — 投票サイトと報酬・投票パーティ
-- [ショップ情報](/play/shops/) — 看板ショップ（OyasaiSignShop）・中央商店街・地下街
+- [ショップ情報](/play/shops/) — 看板ショップ(OyasaiSignShop)・中央商店街・地下街
 
 ## 対戦・ミニゲームで遊ぶ
 

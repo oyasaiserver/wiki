@@ -14,7 +14,7 @@ const config = {
   image: { domains: [], remotePatterns: [] },
   integrations: [
     starlight({
-      title: "おやさいサーバー Wiki",
+      title: "おやさい鯖 Wiki",
       favicon: "/favicon.svg",
       customCss: ["./src/styles/theme.css"],
       defaultLocale: "root",

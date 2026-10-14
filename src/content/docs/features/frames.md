@@ -1,5 +1,5 @@
 ---
-title: 画像を地図にして飾る（OyasaiFrames）
+title: 画像を地図にして飾る(OyasaiFrames)
 sidebar:
   order: 7
 ---
