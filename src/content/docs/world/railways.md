@@ -90,7 +90,6 @@ sidebar:
 
 ## 三小電鉄（三小メトロ）
 
-詳細は[こちら](/world/sansho-railway/)  
 ![](/images/seesaa/dC9bK99p30.webp)
 
 ### 三小線 SK

@@ -1,5 +1,5 @@
 ---
-title: 建築のいいね・評価(SocialLikes3)
+title: 建築のいいね・評価
 sidebar:
   order: 9
 ---

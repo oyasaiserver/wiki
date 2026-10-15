@@ -1,5 +1,5 @@
 ---
-title: 音楽をつくる・聴く(OyasaiMusic)
+title: 音楽をつくる・聴く
 sidebar:
   order: 13
 ---

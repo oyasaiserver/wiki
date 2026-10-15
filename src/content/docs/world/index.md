@@ -14,4 +14,3 @@ sidebar:
 - [サーキット](/world/circuit/) — カーレース・峠・ボートレースのコース
 - [高速道路案内図](/world/highways/) — 高速道路の案内と路線図
 - [鉄道案内、乗換案内](/world/railways/) — 路線図と各線の駅・乗換
-- [三小電鉄・三小メトロ](/world/sansho-railway/) — 会社概要と路線案内

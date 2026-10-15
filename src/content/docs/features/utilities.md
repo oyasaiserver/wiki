@@ -1,5 +1,5 @@
 ---
-title: 持ち物・移動・採掘を便利にする(OyasaiUtilities)
+title: 持ち物・移動・採掘を便利にする
 sidebar:
   order: 1
 ---

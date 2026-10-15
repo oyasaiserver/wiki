@@ -1,5 +1,5 @@
 ---
-title: 建築データをダウンロードする(Vertex)
+title: 建築データをダウンロードする
 sidebar:
   order: 8
 ---

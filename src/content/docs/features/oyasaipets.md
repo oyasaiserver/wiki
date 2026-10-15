@@ -1,5 +1,5 @@
 ---
-title: ペットを飼う・育てる(OyasaiPets)
+title: ペットを飼う・育てる
 sidebar:
   order: 3
 ---

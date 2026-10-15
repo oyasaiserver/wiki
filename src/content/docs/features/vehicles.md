@@ -1,5 +1,5 @@
 ---
-title: 車・飛行機に乗る(OyasaiVehicles)
+title: 車・飛行機に乗る
 sidebar:
   order: 2
 ---
