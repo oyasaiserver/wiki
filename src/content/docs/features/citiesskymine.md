@@ -1,5 +1,5 @@
 ---
-title: 道路・窓・柱をつくる建築補助(CitiesSkyMine)
+title: 道路・窓・柱をつくる建築補助
 sidebar:
   order: 4
 ---

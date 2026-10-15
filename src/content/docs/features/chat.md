@@ -1,5 +1,5 @@
 ---
-title: チャットの送り先・言語を選ぶ(OyasaiChat)
+title: チャットの送り先・言語を選ぶ
 sidebar:
   order: 12
 ---

@@ -1,5 +1,5 @@
 ---
-title: イベントの投票・審査(SocialVotes)
+title: イベントの投票・審査
 sidebar:
   order: 11
 ---

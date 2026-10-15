@@ -1,5 +1,5 @@
 ---
-title: ブロックの向き・形を変える(DirectState)
+title: ブロックの向き・形を変える
 sidebar:
   order: 5
 ---

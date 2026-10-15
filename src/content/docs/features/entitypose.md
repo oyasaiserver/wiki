@@ -1,5 +1,5 @@
 ---
-title: アーマースタンド・動物を配置する(EntityPose)
+title: アーマースタンド・動物を配置する
 sidebar:
   order: 6
 ---

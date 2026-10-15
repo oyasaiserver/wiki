@@ -1,5 +1,5 @@
 ---
-title: 自己紹介・称号・おすすめ建築(DynamicProfile)
+title: 自己紹介・称号・おすすめ建築
 sidebar:
   order: 10
 ---
